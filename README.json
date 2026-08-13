@@ -55,10 +55,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-13T03:48:59Z",
+                "last_commit": "2026-08-13T10:35:39Z",
                 "owner": "James-Yu",
                 "repo": "LaTeX-Workshop",
-                "stars": 12263
+                "stars": 12266
               }
             },
             {
@@ -82,7 +82,7 @@
             "last_commit": "2026-06-21T09:36:55Z",
             "owner": "viatsko",
             "repo": "awesome-vscode",
-            "stars": 28953
+            "stars": 28954
           }
         },
         {
@@ -125,7 +125,7 @@
             "last_commit": "2023-12-22T22:15:38Z",
             "owner": "mhinz",
             "repo": "vim-galore",
-            "stars": 17944
+            "stars": 17943
           }
         },
         {
@@ -139,7 +139,7 @@
             "last_commit": "2026-05-13T04:32:20Z",
             "owner": "emacs-tw",
             "repo": "awesome-emacs",
-            "stars": 9353
+            "stars": 9354
           }
         },
         {
@@ -252,7 +252,7 @@
             "last_commit": "2026-07-10T15:01:30Z",
             "owner": "overleaf",
             "repo": "overleaf",
-            "stars": 18017
+            "stars": 18019
           }
         },
         {
@@ -325,7 +325,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-12T20:05:41Z",
+            "last_commit": "2026-08-13T09:38:44Z",
             "owner": "jolars",
             "repo": "badness",
             "stars": 58
@@ -503,7 +503,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-12T20:05:41Z",
+            "last_commit": "2026-08-13T09:38:44Z",
             "owner": "jolars",
             "repo": "badness",
             "stars": 58
@@ -551,7 +551,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-12T20:05:41Z",
+            "last_commit": "2026-08-13T09:38:44Z",
             "owner": "jolars",
             "repo": "badness",
             "stars": 58
@@ -660,7 +660,7 @@
             "last_commit": "2023-05-05T18:14:07Z",
             "owner": "PetarV-",
             "repo": "TikZ",
-            "stars": 1416
+            "stars": 1415
           }
         },
         {
@@ -694,7 +694,7 @@
             "last_commit": "2026-06-22T20:52:16Z",
             "owner": "martinbjeldbak",
             "repo": "ultimate-beamer-theme-list",
-            "stars": 1786
+            "stars": 1788
           }
         },
         {
@@ -740,7 +740,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T03:55:44.327Z",
+    "last_updated": "2026-08-13T11:57:01.843Z",
     "original_repository": "egeerardyn/awesome-LaTeX",
     "original_repository_sha": "649d5293a16afcb0d91cd98cdc68da1248784f93",
     "enhanced_repository": "enhansome/enhansome-LaTeX",

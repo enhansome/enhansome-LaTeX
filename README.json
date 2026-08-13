@@ -1,0 +1,750 @@
+{
+  "items": [
+    {
+      "description": "Guides how to learn LaTeX",
+      "items": [],
+      "title": "Learning LaTeX"
+    },
+    {
+      "description": "When one aims for a ready-to-run LaTeX environment without installing, Docker images might be the choice.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "dante-ev/docker-texlive",
+          "description": "debian-based full TeXLive system with additions with pandoc, perl, and python pre-installed",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dockerfile",
+            "last_commit": "2026-06-28T12:40:41Z",
+            "owner": "dante-ev",
+            "repo": "docker-texlive",
+            "stars": 116
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "reitzig/texlive-docker",
+          "description": "minimal TeXLive system with package installation possibility",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dockerfile",
+            "last_commit": "2026-08-01T08:29:31Z",
+            "owner": "reitzig",
+            "repo": "texlive-docker",
+            "stars": 31
+          }
+        }
+      ],
+      "title": "Docker Images"
+    },
+    {
+      "description": "These editors are no one-trick ponies: sure, they edit LaTeX, but they can do a lot more!",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "VS Code",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "LaTeX Workshop",
+              "description": "LaTeX extension for Visual Studio Code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2026-08-13T03:48:59Z",
+                "owner": "James-Yu",
+                "repo": "LaTeX-Workshop",
+                "stars": 12263
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "a-nau/latex-devcontainer",
+              "description": "Devcontainer setup for easy LaTeX usage without local installation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Shell",
+                "last_commit": "2026-06-16T06:08:58Z",
+                "owner": "a-nau",
+                "repo": "latex-devcontainer",
+                "stars": 30
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-21T09:36:55Z",
+            "owner": "viatsko",
+            "repo": "awesome-vscode",
+            "stars": 28953
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vim",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "vimtex",
+              "description": "Modern vim plugin for editing LaTeX files. Has a variety of features including live preview and forward search.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TeX",
+                "last_commit": "2026-08-07T19:30:19Z",
+                "owner": "lervag",
+                "repo": "vimtex",
+                "stars": 6342
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LaTeX Live Preview",
+              "description": "Instantly previews your LaTeX document.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Vim Script",
+                "last_commit": "2025-11-03T05:23:04Z",
+                "owner": "xuhdev",
+                "repo": "vim-latex-live-preview",
+                "stars": 852
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "Vim script",
+            "last_commit": "2023-12-22T22:15:38Z",
+            "owner": "mhinz",
+            "repo": "vim-galore",
+            "stars": 17944
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Emacs",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-05-13T04:32:20Z",
+            "owner": "emacs-tw",
+            "repo": "awesome-emacs",
+            "stars": 9353
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Atom",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2019-01-28T15:57:21Z",
+            "owner": "mehcode",
+            "repo": "awesome-atom",
+            "stars": 1927
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sublime Text",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "LaTeXTools",
+              "description": "Free LaTeX plugin for Sublime Text.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Common Workflow Language",
+                "last_commit": "2026-07-30T17:28:40Z",
+                "owner": "SublimeText",
+                "repo": "LaTeXTools",
+                "stars": 2021
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LaTeXing",
+              "description": "Free plug-in to edit LaTeX.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2019-03-19T06:59:18Z",
+                "owner": "LaTeXing",
+                "repo": "LaTeXing",
+                "stars": 82
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-01-15T15:02:30Z",
+            "owner": "dreikanter",
+            "repo": "sublime-bookmarks",
+            "stars": 1074
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "IntelliJ",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "TeXiFy-IDEA",
+              "description": "Free LaTeX plugin for IntelliJ IDEA.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Kotlin",
+                "last_commit": "2026-08-12T19:02:01Z",
+                "owner": "Hannah-Sten",
+                "repo": "TeXiFy-IDEA",
+                "stars": 985
+              }
+            }
+          ]
+        }
+      ],
+      "title": "General purpose text editors"
+    },
+    {
+      "description": "Online editors that allow you to edit documents collaboratively.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Overleaf",
+          "description": "Online editor, also with a WYSIWYM editor and git support. Also available as Overleaf Community Edition (self-hosted, AGPL licensed).",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "olcli",
+              "description": "Command-line interface for Overleaf to sync, manage, and compile projects from the terminal.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2026-08-08T09:01:10Z",
+                "owner": "aloth",
+                "repo": "olcli",
+                "stars": 151
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-10T15:01:30Z",
+            "owner": "overleaf",
+            "repo": "overleaf",
+            "stars": 18017
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WebLaTeX",
+          "description": "Web-based vscode with Git Integration + Copilot + Grammar & Spell Checker + Live Collaboration Support based on GitHub Codespace and Dev container.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TeX",
+            "last_commit": "2024-05-23T01:16:42Z",
+            "owner": "sanjib-sen",
+            "repo": "WebLaTex",
+            "stars": 1742
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Modern LaTeX Editor",
+          "description": "Online editor, no-signup hybrid code editor + visual editor that mixes Notion/Google docs/Microsoft Word-like editing with raw LaTeX code blocks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-27T03:03:34Z",
+            "owner": "InMDev",
+            "repo": "Modern-LaTeX-Editor",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SciTeX Cloud",
+          "description": "Self-hostable online editor with AI assistant integration, figure/table/citation management, real-time collaboration, and an MCP server (29 tools).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T06:55:47Z",
+            "owner": "scitex-ai",
+            "repo": "scitex-hub",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Online editors"
+    },
+    {
+      "description": "Language servers bring IDE features (completion, diagnostics, navigation, and more) to any editor that speaks the Language Server Protocol, such as Neovim, VS Code, Emacs, and Helix.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "TexLab",
+          "description": "Language server for LaTeX and BibTeX with completion, definitions, references, rename, formatting, and forward search.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-27T01:34:58Z",
+            "owner": "latex-lsp",
+            "repo": "texlab",
+            "stars": 2007
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Badness",
+          "description": "Language server, formatter, and linter for LaTeX built on a lossless, error-tolerant syntax tree in the style of rust-analyzer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T20:05:41Z",
+            "owner": "jolars",
+            "repo": "badness",
+            "stars": 58
+          }
+        }
+      ],
+      "title": "Language Servers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Papis",
+          "description": "Extremely customizable, powerful and simple cross-platform (Python) library manager. It has a very complete Command-Line-Interface, several GUIs and scripting capability.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-08-10T21:31:18Z",
+            "owner": "papis",
+            "repo": "papis",
+            "stars": 1764
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "betterbib",
+          "description": "Command-line utility for improving your BibTeX files. Fetches information from online sources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-04-08T14:01:48Z",
+            "owner": "texworld",
+            "repo": "betterbib",
+            "stars": 839
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OneCite",
+          "description": "Universal citation management and academic reference toolkit that converts messy references into perfectly formatted citations. Supports DOI, arXiv ID, titles, and more, with output in BibTeX, APA, and MLA formats.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-06T09:53:48Z",
+            "owner": "HzaCode",
+            "repo": "OneCite",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CrossRef Local",
+          "description": "Local CrossRef database (167M papers) with full-text search, impact factor data, Python API for bibliography enrichment, and an MCP server (15 tools).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-22T03:47:06Z",
+            "owner": "scitex-ai",
+            "repo": "crossref-local",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenAlex Local",
+          "description": "Local OpenAlex database (284M scholarly works) with abstracts and semantic search for literature discovery, and an MCP server.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-14T00:27:20Z",
+            "owner": "scitex-ai",
+            "repo": "openalex-local",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Bibliography tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "xu-cheng/latex-action",
+          "description": "GitHub Action to compile LaTeX documents",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-07-30T19:34:46Z",
+            "owner": "xu-cheng",
+            "repo": "latex-action",
+            "stars": 1407
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dante-ev/latex-action",
+          "description": "DANTE e.V.'s GitHub action to compile LaTeX documents. Offers a full TeXLive and pre-installed perl and python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TeX",
+            "last_commit": "2026-06-28T12:57:23Z",
+            "owner": "dante-ev",
+            "repo": "latex-action",
+            "stars": 194
+          }
+        }
+      ],
+      "title": "GitHub Actions"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "CaTeX",
+          "description": "Concatenates LaTeX documents with attention for properly merging the preamble.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-12-26T20:15:02Z",
+            "owner": "Alexis-benoist",
+            "repo": "CaTeX",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SciTeX Writer",
+          "description": "Manuscript compilation system with templates for manuscripts, revisions, and supplementary materials, plus figure, table, and citation handling, and an MCP server (38 tools).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T23:52:57Z",
+            "owner": "scitex-ai",
+            "repo": "scitex-writer",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Misc. Tools"
+    },
+    {
+      "description": "Formatters keep the layout of your LaTeX source consistent, so that you can focus on the content.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "tex-fmt",
+          "description": "Extremely fast LaTeX formatter written in Rust, with sensible defaults and minimal configuration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-20T13:01:31Z",
+            "owner": "WGUNDERWOOD",
+            "repo": "tex-fmt",
+            "stars": 854
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Badness",
+          "description": "Deterministic, rule-based, and idempotent LaTeX formatter written in Rust (also a linter and language server).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T20:05:41Z",
+            "owner": "jolars",
+            "repo": "badness",
+            "stars": 58
+          }
+        }
+      ],
+      "title": "Formatters"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "TeXtidote",
+          "description": "A cross-platform (Java) spelling, grammar and style checker for LaTeX documents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-04-16T13:24:03Z",
+            "owner": "sylvainhalle",
+            "repo": "textidote",
+            "stars": 1054
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "blacktex",
+          "description": "Command-line tool that replaces commonly occurring LaTeX anti-patterns and cleans up your files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-01-22T14:39:14Z",
+            "owner": "texworld",
+            "repo": "blacktex",
+            "stars": 159
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Badness",
+          "description": "Error-tolerant LaTeX linter with rich diagnostics and source snippets (also a formatter and language server).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T20:05:41Z",
+            "owner": "jolars",
+            "repo": "badness",
+            "stars": 58
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "latex2arxiv",
+          "description": "CLI tool that prepares a LaTeX project for arXiv submission: prunes unreachable files, strips draft markup, validates the bibliography, and catches desk-rejection errors before upload. Also available as a GitHub Action and MCP server for AI agents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-30T01:16:13Z",
+            "owner": "YuZh98",
+            "repo": "latex2arxiv",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Quality Check Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "TikZ-Editor",
+          "description": "Live-previewing editor for TikZ figures.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-25T15:36:33Z",
+            "owner": "fredokun",
+            "repo": "TikZ-Editor",
+            "stars": 201
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TikzEdt",
+          "description": "(also: GitHub repo) - WYSIWYG and text-based editor for TikZ pictures.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2015-06-08T16:44:04Z",
+            "owner": "hchapman",
+            "repo": "tikzedt",
+            "stars": 10
+          }
+        }
+      ],
+      "title": "LaTeX-compatible GUI tools"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Graphics"
+    },
+    {
+      "description": "PSTricks is a great library to draw figures for inclusion in PostScript/DVI files.",
+      "items": [],
+      "title": "PSTricks"
+    },
+    {
+      "description": "TikZ is an awesome package with many plugins that allow you to create figures from within your LaTeX documents. Typically, it is easier to get to work with than PSTricks is.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "tikzplotlib",
+          "description": "Convert your matplotlib plots to PGFPlots/TikZ.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-16T05:00:45Z",
+            "owner": "nschloe",
+            "repo": "tikzplotlib",
+            "stars": 2581
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "matlab2tikz",
+          "description": "Convert your MATLAB plots to PGFPlots/TikZ.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MATLAB",
+            "last_commit": "2026-05-31T18:16:01Z",
+            "owner": "matlab2tikz",
+            "repo": "matlab2tikz",
+            "stars": 1733
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PetarV-/TikZ",
+          "description": "Collection of publication-ready PGF/TikZ figures by Petar Veličković.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TeX",
+            "last_commit": "2023-05-05T18:14:07Z",
+            "owner": "PetarV-",
+            "repo": "TikZ",
+            "stars": 1416
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenTikZ",
+          "description": "Community library of copyable TikZ icons and editable, parametric templates for academic conceptual diagrams (system/architecture, pipelines, flowcharts); CC0 content, with a Claude Code skill to edit figures on request.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TeX",
+            "last_commit": "2026-07-12T02:24:36Z",
+            "owner": "opentikz",
+            "repo": "opentikz",
+            "stars": 245
+          }
+        }
+      ],
+      "title": "TikZ"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Ultimate Beamer Theme List",
+          "description": "Links to various beamer themes along with PDF previews.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-22T20:52:16Z",
+            "owner": "martinbjeldbak",
+            "repo": "ultimate-beamer-theme-list",
+            "stars": 1786
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TeXtured",
+          "description": "A typographically elegant, clean, and structured LaTeX template (primarily intended for theses).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TeX",
+            "last_commit": "2026-05-05T17:17:10Z",
+            "owner": "jdujava",
+            "repo": "TeXtured",
+            "stars": 275
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LaTeX Beamer Theme Overview",
+          "description": "Visual overview of beamer themes included in TeXLive",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TeX",
+            "last_commit": "2025-09-05T14:36:00Z",
+            "owner": "UweZiegenhagen",
+            "repo": "LaTeX-Beamer-Theme-Overview",
+            "stars": 55
+          }
+        }
+      ],
+      "title": "Templates"
+    },
+    {
+      "description": "If you want to contribute, please do read our CONTRIBUTING guidelines.",
+      "items": [],
+      "title": "Meta Awesome-LaTeX"
+    },
+    {
+      "description": "The icons indicating Mac, Linux and Windows compatibility show when a program is only available for those platforms. So absence of those icons means that the software is fully cross-platform.\nAll trademarks are property of their respective owners.",
+      "items": [],
+      "title": "Legend"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T03:55:44.327Z",
+    "original_repository": "egeerardyn/awesome-LaTeX",
+    "original_repository_sha": "649d5293a16afcb0d91cd98cdc68da1248784f93",
+    "enhanced_repository": "enhansome/enhansome-LaTeX",
+    "enhanced_repository_description": null,
+    "title": "Awesome LaTeX with stars"
+  }
+}

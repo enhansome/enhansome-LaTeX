@@ -58,7 +58,7 @@
                     "last_commit": "2026-08-18T09:20:34Z",
                     "owner": "James-Yu",
                     "repo": "LaTeX-Workshop",
-                    "stars": 12277
+                    "stars": 12281
                   }
                 },
                 {
@@ -84,7 +84,7 @@
                 "last_commit": "2026-06-21T09:36:55Z",
                 "owner": "viatsko",
                 "repo": "awesome-vscode",
-                "stars": 28963
+                "stars": 28964
               }
             },
             {
@@ -101,10 +101,10 @@
                     "archived": false,
                     "id": 13344397,
                     "language": "TeX",
-                    "last_commit": "2026-08-21T01:34:17Z",
+                    "last_commit": "2026-08-21T17:30:46Z",
                     "owner": "lervag",
                     "repo": "vimtex",
-                    "stars": 6350
+                    "stars": 6352
                   }
                 },
                 {
@@ -130,7 +130,7 @@
                 "last_commit": "2023-12-22T22:15:38Z",
                 "owner": "mhinz",
                 "repo": "vim-galore",
-                "stars": 17951
+                "stars": 17955
               }
             },
             {
@@ -266,7 +266,7 @@
                 "last_commit": "2026-07-10T15:01:30Z",
                 "owner": "overleaf",
                 "repo": "overleaf",
-                "stars": 18049
+                "stars": 18053
               }
             },
             {
@@ -337,7 +337,7 @@
             "last_commit": "2026-07-27T01:34:58Z",
             "owner": "latex-lsp",
             "repo": "texlab",
-            "stars": 2009
+            "stars": 2008
           }
         },
         {
@@ -349,10 +349,10 @@
             "archived": false,
             "id": 1262325065,
             "language": "Rust",
-            "last_commit": "2026-08-21T10:50:55Z",
+            "last_commit": "2026-08-21T21:36:50Z",
             "owner": "jolars",
             "repo": "badness",
-            "stars": 64
+            "stars": 65
           }
         }
       ],
@@ -370,7 +370,7 @@
             "archived": false,
             "id": 82691622,
             "language": "HTML",
-            "last_commit": "2026-08-18T18:54:49Z",
+            "last_commit": "2026-08-22T08:08:50Z",
             "owner": "papis",
             "repo": "papis",
             "stars": 1768
@@ -526,10 +526,10 @@
                 "archived": false,
                 "id": 791561724,
                 "language": "Rust",
-                "last_commit": "2026-07-20T13:01:31Z",
+                "last_commit": "2026-08-22T11:03:59Z",
                 "owner": "WGUNDERWOOD",
                 "repo": "tex-fmt",
-                "stars": 856
+                "stars": 860
               }
             },
             {
@@ -541,10 +541,10 @@
                 "archived": false,
                 "id": 1262325065,
                 "language": "Rust",
-                "last_commit": "2026-08-21T10:50:55Z",
+                "last_commit": "2026-08-21T21:36:50Z",
                 "owner": "jolars",
                 "repo": "badness",
-                "stars": 64
+                "stars": 65
               }
             }
           ],
@@ -563,7 +563,7 @@
                 "archived": false,
                 "id": 136962671,
                 "language": "Java",
-                "last_commit": "2026-08-20T15:35:40Z",
+                "last_commit": "2026-08-21T20:44:40Z",
                 "owner": "sylvainhalle",
                 "repo": "textidote",
                 "stars": 1056
@@ -593,10 +593,10 @@
                 "archived": false,
                 "id": 1262325065,
                 "language": "Rust",
-                "last_commit": "2026-08-21T10:50:55Z",
+                "last_commit": "2026-08-21T21:36:50Z",
                 "owner": "jolars",
                 "repo": "badness",
-                "stars": 64
+                "stars": 65
               }
             },
             {
@@ -692,7 +692,7 @@
                     "last_commit": "2026-05-31T18:16:01Z",
                     "owner": "matlab2tikz",
                     "repo": "matlab2tikz",
-                    "stars": 1738
+                    "stars": 1739
                   }
                 },
                 {
@@ -791,7 +791,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T11:37:44.918Z",
+    "last_updated": "2026-08-22T11:32:27.996Z",
     "original_repository": "egeerardyn/awesome-LaTeX",
     "original_repository_id": 49157768,
     "original_repository_sha": "649d5293a16afcb0d91cd98cdc68da1248784f93",

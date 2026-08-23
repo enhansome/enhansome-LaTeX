@@ -55,10 +55,10 @@
                     "archived": false,
                     "id": 77369463,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-18T09:20:34Z",
+                    "last_commit": "2026-08-22T17:17:13Z",
                     "owner": "James-Yu",
                     "repo": "LaTeX-Workshop",
-                    "stars": 12281
+                    "stars": 12283
                   }
                 },
                 {
@@ -84,7 +84,7 @@
                 "last_commit": "2026-06-21T09:36:55Z",
                 "owner": "viatsko",
                 "repo": "awesome-vscode",
-                "stars": 28964
+                "stars": 28969
               }
             },
             {
@@ -101,10 +101,10 @@
                     "archived": false,
                     "id": 13344397,
                     "language": "TeX",
-                    "last_commit": "2026-08-21T17:30:46Z",
+                    "last_commit": "2026-08-22T12:55:47Z",
                     "owner": "lervag",
                     "repo": "vimtex",
-                    "stars": 6352
+                    "stars": 6351
                   }
                 },
                 {
@@ -130,7 +130,7 @@
                 "last_commit": "2023-12-22T22:15:38Z",
                 "owner": "mhinz",
                 "repo": "vim-galore",
-                "stars": 17955
+                "stars": 17957
               }
             },
             {
@@ -145,7 +145,7 @@
                 "last_commit": "2026-05-13T04:32:20Z",
                 "owner": "emacs-tw",
                 "repo": "awesome-emacs",
-                "stars": 9362
+                "stars": 9364
               }
             },
             {
@@ -206,7 +206,7 @@
                 "last_commit": "2024-01-15T15:02:30Z",
                 "owner": "dreikanter",
                 "repo": "sublime-bookmarks",
-                "stars": 1075
+                "stars": 1074
               }
             },
             {
@@ -266,7 +266,7 @@
                 "last_commit": "2026-07-10T15:01:30Z",
                 "owner": "overleaf",
                 "repo": "overleaf",
-                "stars": 18053
+                "stars": 18061
               }
             },
             {
@@ -296,7 +296,7 @@
                 "last_commit": "2026-06-27T03:03:34Z",
                 "owner": "InMDev",
                 "repo": "Modern-LaTeX-Editor",
-                "stars": 38
+                "stars": 39
               }
             },
             {
@@ -308,7 +308,7 @@
                 "archived": false,
                 "id": 1010976100,
                 "language": "Python",
-                "last_commit": "2026-08-20T23:12:17Z",
+                "last_commit": "2026-08-23T10:06:29Z",
                 "owner": "scitex-ai",
                 "repo": "scitex-hub",
                 "stars": 2
@@ -370,7 +370,7 @@
             "archived": false,
             "id": 82691622,
             "language": "HTML",
-            "last_commit": "2026-08-22T08:08:50Z",
+            "last_commit": "2026-08-23T09:51:23Z",
             "owner": "papis",
             "repo": "papis",
             "stars": 1768
@@ -509,7 +509,7 @@
             "archived": false,
             "id": 977310383,
             "language": "Python",
-            "last_commit": "2026-08-18T23:35:30Z",
+            "last_commit": "2026-08-23T06:49:31Z",
             "owner": "scitex-ai",
             "repo": "scitex-writer",
             "stars": 3
@@ -722,7 +722,7 @@
                     "last_commit": "2026-07-12T02:24:36Z",
                     "owner": "opentikz",
                     "repo": "opentikz",
-                    "stars": 247
+                    "stars": 248
                   }
                 }
               ],
@@ -791,7 +791,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T11:32:27.996Z",
+    "last_updated": "2026-08-23T11:32:42.264Z",
     "original_repository": "egeerardyn/awesome-LaTeX",
     "original_repository_id": 49157768,
     "original_repository_sha": "649d5293a16afcb0d91cd98cdc68da1248784f93",

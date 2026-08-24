@@ -43,6 +43,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Oleafly",
+              "description": "Free, open-source desktop editor for LaTeX, Typst, and Markdown with live PDF preview, SyncTeX, bundled engines, and Git-native projects.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1289704847,
+                "language": "TypeScript",
+                "last_commit": "2026-08-24T13:46:51Z",
+                "owner": "Oleafly",
+                "repo": "Oleafly",
+                "stars": 68
+              }
+            }
+          ],
+          "description": "Some of the most awesome editor for LaTeX do just that: edit LaTeX.",
+          "node_type": "group",
+          "title": "LaTeX-focused"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "VS Code",
               "description": null,
               "children": [
@@ -55,10 +77,10 @@
                     "archived": false,
                     "id": 77369463,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-24T05:24:27Z",
+                    "last_commit": "2026-08-24T12:34:42Z",
                     "owner": "James-Yu",
                     "repo": "LaTeX-Workshop",
-                    "stars": 12286
+                    "stars": 12287
                   }
                 },
                 {
@@ -84,7 +106,7 @@
                 "last_commit": "2026-06-21T09:36:55Z",
                 "owner": "viatsko",
                 "repo": "awesome-vscode",
-                "stars": 28973
+                "stars": 28974
               }
             },
             {
@@ -130,7 +152,7 @@
                 "last_commit": "2023-12-22T22:15:38Z",
                 "owner": "mhinz",
                 "repo": "vim-galore",
-                "stars": 17959
+                "stars": 17957
               }
             },
             {
@@ -145,7 +167,7 @@
                 "last_commit": "2026-05-13T04:32:20Z",
                 "owner": "emacs-tw",
                 "repo": "awesome-emacs",
-                "stars": 9366
+                "stars": 9367
               }
             },
             {
@@ -255,7 +277,7 @@
                     "last_commit": "2026-08-08T09:01:10Z",
                     "owner": "aloth",
                     "repo": "olcli",
-                    "stars": 162
+                    "stars": 163
                   }
                 }
               ],
@@ -266,7 +288,7 @@
                 "last_commit": "2026-07-10T15:01:30Z",
                 "owner": "overleaf",
                 "repo": "overleaf",
-                "stars": 18063
+                "stars": 18064
               }
             },
             {
@@ -349,7 +371,7 @@
             "archived": false,
             "id": 1262325065,
             "language": "Rust",
-            "last_commit": "2026-08-24T10:49:38Z",
+            "last_commit": "2026-08-24T13:30:20Z",
             "owner": "jolars",
             "repo": "badness",
             "stars": 65
@@ -442,6 +464,21 @@
     {
       "description": "Compiling LaTeX documents can be tedious, build tools help you to manage the compilation process.",
       "items": [
+        {
+          "node_type": "item",
+          "title": "Arara",
+          "description": "(GitHub repo) - Simple tool that allows you to specify which tools to call inside your document and it can be extended quite easily.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 3951404,
+            "language": "Kotlin",
+            "last_commit": "2026-07-12T21:59:46Z",
+            "owner": "islandoftex",
+            "repo": "arara",
+            "stars": 417
+          }
+        },
         {
           "children": [
             {
@@ -541,7 +578,7 @@
                 "archived": false,
                 "id": 1262325065,
                 "language": "Rust",
-                "last_commit": "2026-08-24T10:49:38Z",
+                "last_commit": "2026-08-24T13:30:20Z",
                 "owner": "jolars",
                 "repo": "badness",
                 "stars": 65
@@ -593,7 +630,7 @@
                 "archived": false,
                 "id": 1262325065,
                 "language": "Rust",
-                "last_commit": "2026-08-24T10:49:38Z",
+                "last_commit": "2026-08-24T13:30:20Z",
                 "owner": "jolars",
                 "repo": "badness",
                 "stars": 65
@@ -753,7 +790,7 @@
             "last_commit": "2026-06-22T20:52:16Z",
             "owner": "martinbjeldbak",
             "repo": "ultimate-beamer-theme-list",
-            "stars": 1793
+            "stars": 1794
           }
         },
         {
@@ -788,10 +825,73 @@
         }
       ],
       "title": "Templates"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MartinThoma's LaTeX example",
+          "description": "GitHub repository containing example LaTeX documents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 5351405,
+            "language": "TeX",
+            "last_commit": "2024-10-19T09:23:33Z",
+            "owner": "MartinThoma",
+            "repo": "LaTeX-examples",
+            "stars": 1690
+          }
+        }
+      ],
+      "title": "Resources"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome LaTeX drawing",
+          "description": "Curated list of academic drawing examples for using LaTeX",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 165196316,
+            "language": "TeX",
+            "last_commit": "2025-05-26T00:13:06Z",
+            "owner": "xinychen",
+            "repo": "awesome-latex-drawing",
+            "stars": 2043
+          }
+        }
+      ],
+      "title": "Showcases"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Begin LaTeX in minutes",
+          "description": "Brief intro to LaTeX for beginners that helps you use LaTeX with ease.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 72344173,
+            "language": null,
+            "last_commit": "2020-11-24T04:55:09Z",
+            "owner": "luong-komorebi",
+            "repo": "Begin-Latex-in-minutes",
+            "stars": 3288
+          }
+        }
+      ],
+      "title": "Tutorials"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T11:40:49.058Z",
+    "last_updated": "2026-08-24T14:08:05.854Z",
     "original_repository": "egeerardyn/awesome-LaTeX",
     "original_repository_id": 49157768,
     "original_repository_sha": "649d5293a16afcb0d91cd98cdc68da1248784f93",

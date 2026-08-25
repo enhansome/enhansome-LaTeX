@@ -50,10 +50,10 @@
                 "archived": false,
                 "id": 1289704847,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T13:46:51Z",
+                "last_commit": "2026-08-25T05:02:09Z",
                 "owner": "Oleafly",
                 "repo": "Oleafly",
-                "stars": 68
+                "stars": 74
               }
             }
           ],
@@ -77,7 +77,7 @@
                     "archived": false,
                     "id": 77369463,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-24T12:34:42Z",
+                    "last_commit": "2026-08-25T05:33:52Z",
                     "owner": "James-Yu",
                     "repo": "LaTeX-Workshop",
                     "stars": 12287
@@ -106,7 +106,7 @@
                 "last_commit": "2026-06-21T09:36:55Z",
                 "owner": "viatsko",
                 "repo": "awesome-vscode",
-                "stars": 28974
+                "stars": 28975
               }
             },
             {
@@ -126,7 +126,7 @@
                     "last_commit": "2026-08-22T12:55:47Z",
                     "owner": "lervag",
                     "repo": "vimtex",
-                    "stars": 6352
+                    "stars": 6351
                   }
                 },
                 {
@@ -141,7 +141,7 @@
                     "last_commit": "2025-11-03T05:23:04Z",
                     "owner": "xuhdev",
                     "repo": "vim-latex-live-preview",
-                    "stars": 854
+                    "stars": 853
                   }
                 }
               ],
@@ -152,7 +152,7 @@
                 "last_commit": "2023-12-22T22:15:38Z",
                 "owner": "mhinz",
                 "repo": "vim-galore",
-                "stars": 17957
+                "stars": 17959
               }
             },
             {
@@ -167,7 +167,7 @@
                 "last_commit": "2026-05-13T04:32:20Z",
                 "owner": "emacs-tw",
                 "repo": "awesome-emacs",
-                "stars": 9367
+                "stars": 9368
               }
             },
             {
@@ -182,7 +182,7 @@
                 "last_commit": "2019-01-28T15:57:21Z",
                 "owner": "mehcode",
                 "repo": "awesome-atom",
-                "stars": 1927
+                "stars": 1928
               }
             },
             {
@@ -274,10 +274,10 @@
                     "archived": false,
                     "id": 1147798916,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-08T09:01:10Z",
+                    "last_commit": "2026-08-24T18:52:13Z",
                     "owner": "aloth",
                     "repo": "olcli",
-                    "stars": 163
+                    "stars": 165
                   }
                 }
               ],
@@ -288,7 +288,7 @@
                 "last_commit": "2026-07-10T15:01:30Z",
                 "owner": "overleaf",
                 "repo": "overleaf",
-                "stars": 18064
+                "stars": 18065
               }
             },
             {
@@ -330,7 +330,7 @@
                 "archived": false,
                 "id": 1010976100,
                 "language": "Python",
-                "last_commit": "2026-08-23T19:36:51Z",
+                "last_commit": "2026-08-24T22:33:26Z",
                 "owner": "scitex-ai",
                 "repo": "scitex-hub",
                 "stars": 2
@@ -359,7 +359,7 @@
             "last_commit": "2026-07-27T01:34:58Z",
             "owner": "latex-lsp",
             "repo": "texlab",
-            "stars": 2009
+            "stars": 2010
           }
         },
         {
@@ -371,7 +371,7 @@
             "archived": false,
             "id": 1262325065,
             "language": "Rust",
-            "last_commit": "2026-08-24T13:30:20Z",
+            "last_commit": "2026-08-24T20:27:38Z",
             "owner": "jolars",
             "repo": "badness",
             "stars": 65
@@ -546,7 +546,7 @@
             "archived": false,
             "id": 977310383,
             "language": "Python",
-            "last_commit": "2026-08-23T06:49:31Z",
+            "last_commit": "2026-08-24T19:25:18Z",
             "owner": "scitex-ai",
             "repo": "scitex-writer",
             "stars": 3
@@ -566,7 +566,7 @@
                 "last_commit": "2026-08-22T11:03:59Z",
                 "owner": "WGUNDERWOOD",
                 "repo": "tex-fmt",
-                "stars": 861
+                "stars": 863
               }
             },
             {
@@ -578,7 +578,7 @@
                 "archived": false,
                 "id": 1262325065,
                 "language": "Rust",
-                "last_commit": "2026-08-24T13:30:20Z",
+                "last_commit": "2026-08-24T20:27:38Z",
                 "owner": "jolars",
                 "repo": "badness",
                 "stars": 65
@@ -630,7 +630,7 @@
                 "archived": false,
                 "id": 1262325065,
                 "language": "Rust",
-                "last_commit": "2026-08-24T13:30:20Z",
+                "last_commit": "2026-08-24T20:27:38Z",
                 "owner": "jolars",
                 "repo": "badness",
                 "stars": 65
@@ -759,7 +759,7 @@
                     "last_commit": "2026-07-12T02:24:36Z",
                     "owner": "opentikz",
                     "repo": "opentikz",
-                    "stars": 248
+                    "stars": 249
                   }
                 }
               ],
@@ -883,7 +883,7 @@
             "last_commit": "2020-11-24T04:55:09Z",
             "owner": "luong-komorebi",
             "repo": "Begin-Latex-in-minutes",
-            "stars": 3288
+            "stars": 3287
           }
         }
       ],
@@ -891,7 +891,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:08:05.854Z",
+    "last_updated": "2026-08-25T06:06:55.267Z",
     "original_repository": "egeerardyn/awesome-LaTeX",
     "original_repository_id": 49157768,
     "original_repository_sha": "649d5293a16afcb0d91cd98cdc68da1248784f93",

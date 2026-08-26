@@ -27,7 +27,7 @@
             "archived": false,
             "id": 212058154,
             "language": "Dockerfile",
-            "last_commit": "2026-08-17T21:15:17Z",
+            "last_commit": "2026-08-25T21:32:13Z",
             "owner": "reitzig",
             "repo": "texlive-docker",
             "stars": 31
@@ -50,10 +50,10 @@
                 "archived": false,
                 "id": 1289704847,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T11:19:20Z",
+                "last_commit": "2026-08-26T11:33:45Z",
                 "owner": "Oleafly",
                 "repo": "Oleafly",
-                "stars": 76
+                "stars": 80
               }
             }
           ],
@@ -77,7 +77,7 @@
                     "archived": false,
                     "id": 77369463,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-25T06:17:38Z",
+                    "last_commit": "2026-08-26T02:55:56Z",
                     "owner": "James-Yu",
                     "repo": "LaTeX-Workshop",
                     "stars": 12288
@@ -106,7 +106,7 @@
                 "last_commit": "2026-06-21T09:36:55Z",
                 "owner": "viatsko",
                 "repo": "awesome-vscode",
-                "stars": 28975
+                "stars": 28973
               }
             },
             {
@@ -152,7 +152,7 @@
                 "last_commit": "2023-12-22T22:15:38Z",
                 "owner": "mhinz",
                 "repo": "vim-galore",
-                "stars": 17959
+                "stars": 17961
               }
             },
             {
@@ -167,7 +167,7 @@
                 "last_commit": "2026-05-13T04:32:20Z",
                 "owner": "emacs-tw",
                 "repo": "awesome-emacs",
-                "stars": 9368
+                "stars": 9369
               }
             },
             {
@@ -277,7 +277,7 @@
                     "last_commit": "2026-08-24T18:52:13Z",
                     "owner": "aloth",
                     "repo": "olcli",
-                    "stars": 165
+                    "stars": 167
                   }
                 }
               ],
@@ -288,7 +288,7 @@
                 "last_commit": "2026-07-10T15:01:30Z",
                 "owner": "overleaf",
                 "repo": "overleaf",
-                "stars": 18069
+                "stars": 18071
               }
             },
             {
@@ -303,7 +303,7 @@
                 "last_commit": "2024-05-23T01:16:42Z",
                 "owner": "sanjib-sen",
                 "repo": "WebLaTex",
-                "stars": 1743
+                "stars": 1745
               }
             },
             {
@@ -330,7 +330,7 @@
                 "archived": false,
                 "id": 1010976100,
                 "language": "Python",
-                "last_commit": "2026-08-24T22:33:26Z",
+                "last_commit": "2026-08-26T09:58:28Z",
                 "owner": "scitex-ai",
                 "repo": "scitex-hub",
                 "stars": 2
@@ -371,10 +371,10 @@
             "archived": false,
             "id": 1262325065,
             "language": "Rust",
-            "last_commit": "2026-08-25T11:15:20Z",
+            "last_commit": "2026-08-26T11:37:05Z",
             "owner": "jolars",
             "repo": "badness",
-            "stars": 65
+            "stars": 66
           }
         }
       ],
@@ -578,10 +578,10 @@
                 "archived": false,
                 "id": 1262325065,
                 "language": "Rust",
-                "last_commit": "2026-08-25T11:15:20Z",
+                "last_commit": "2026-08-26T11:37:05Z",
                 "owner": "jolars",
                 "repo": "badness",
-                "stars": 65
+                "stars": 66
               }
             }
           ],
@@ -630,10 +630,10 @@
                 "archived": false,
                 "id": 1262325065,
                 "language": "Rust",
-                "last_commit": "2026-08-25T11:15:20Z",
+                "last_commit": "2026-08-26T11:37:05Z",
                 "owner": "jolars",
                 "repo": "badness",
-                "stars": 65
+                "stars": 66
               }
             },
             {
@@ -891,7 +891,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T11:39:24.597Z",
+    "last_updated": "2026-08-26T11:41:41.801Z",
     "original_repository": "egeerardyn/awesome-LaTeX",
     "original_repository_id": 49157768,
     "original_repository_sha": "649d5293a16afcb0d91cd98cdc68da1248784f93",

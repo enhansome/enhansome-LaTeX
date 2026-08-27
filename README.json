@@ -50,10 +50,10 @@
                 "archived": false,
                 "id": 1289704847,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T05:58:28Z",
+                "last_commit": "2026-08-27T17:23:51Z",
                 "owner": "Oleafly",
                 "repo": "Oleafly",
-                "stars": 82
+                "stars": 83
               }
             }
           ],
@@ -106,7 +106,7 @@
                 "last_commit": "2026-06-21T09:36:55Z",
                 "owner": "viatsko",
                 "repo": "awesome-vscode",
-                "stars": 28972
+                "stars": 28976
               }
             },
             {
@@ -288,7 +288,7 @@
                 "last_commit": "2026-07-10T15:01:30Z",
                 "owner": "overleaf",
                 "repo": "overleaf",
-                "stars": 18074
+                "stars": 18076
               }
             },
             {
@@ -303,7 +303,7 @@
                 "last_commit": "2024-05-23T01:16:42Z",
                 "owner": "sanjib-sen",
                 "repo": "WebLaTex",
-                "stars": 1745
+                "stars": 1746
               }
             },
             {
@@ -371,7 +371,7 @@
             "archived": false,
             "id": 1262325065,
             "language": "Rust",
-            "last_commit": "2026-08-27T11:11:18Z",
+            "last_commit": "2026-08-27T20:39:47Z",
             "owner": "jolars",
             "repo": "badness",
             "stars": 67
@@ -395,7 +395,7 @@
             "last_commit": "2026-08-23T09:51:23Z",
             "owner": "papis",
             "repo": "papis",
-            "stars": 1769
+            "stars": 1771
           }
         },
         {
@@ -578,7 +578,7 @@
                 "archived": false,
                 "id": 1262325065,
                 "language": "Rust",
-                "last_commit": "2026-08-27T11:11:18Z",
+                "last_commit": "2026-08-27T20:39:47Z",
                 "owner": "jolars",
                 "repo": "badness",
                 "stars": 67
@@ -630,7 +630,7 @@
                 "archived": false,
                 "id": 1262325065,
                 "language": "Rust",
-                "last_commit": "2026-08-27T11:11:18Z",
+                "last_commit": "2026-08-27T20:39:47Z",
                 "owner": "jolars",
                 "repo": "badness",
                 "stars": 67
@@ -729,7 +729,7 @@
                     "last_commit": "2026-05-31T18:16:01Z",
                     "owner": "matlab2tikz",
                     "repo": "matlab2tikz",
-                    "stars": 1740
+                    "stars": 1741
                   }
                 },
                 {
@@ -759,7 +759,7 @@
                     "last_commit": "2026-07-12T02:24:36Z",
                     "owner": "opentikz",
                     "repo": "opentikz",
-                    "stars": 254
+                    "stars": 255
                   }
                 }
               ],
@@ -891,7 +891,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:50:22.266Z",
+    "last_updated": "2026-08-27T21:00:10.258Z",
     "original_repository_info": {
       "archived": false,
       "id": 49157768,
@@ -899,7 +899,7 @@
       "last_commit": "2026-08-08T07:42:44Z",
       "owner": "egeerardyn",
       "repo": "awesome-LaTeX",
-      "stars": 1665
+      "stars": 1664
     },
     "original_repository_sha": "649d5293a16afcb0d91cd98cdc68da1248784f93",
     "enhanced_repository": "enhansome/enhansome-LaTeX",

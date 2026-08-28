@@ -16,7 +16,8 @@
             "owner": "dante-ev",
             "repo": "docker-texlive",
             "stars": 118
-          }
+          },
+          "first_seen": "2026-08-28T21:21:08.759Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "reitzig",
             "repo": "texlive-docker",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-28T21:21:08.759Z"
         }
       ],
       "title": "Docker Images"
@@ -50,11 +52,12 @@
                 "archived": false,
                 "id": 1289704847,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T17:23:51Z",
+                "last_commit": "2026-08-28T13:36:13Z",
                 "owner": "Oleafly",
                 "repo": "Oleafly",
-                "stars": 83
-              }
+                "stars": 85
+              },
+              "first_seen": "2026-08-28T21:21:08.759Z"
             }
           ],
           "description": "Some of the most awesome editor for LaTeX do just that: edit LaTeX.",
@@ -80,8 +83,9 @@
                     "last_commit": "2026-08-26T02:55:56Z",
                     "owner": "James-Yu",
                     "repo": "LaTeX-Workshop",
-                    "stars": 12292
-                  }
+                    "stars": 12294
+                  },
+                  "first_seen": "2026-08-28T21:21:08.759Z"
                 },
                 {
                   "node_type": "item",
@@ -96,7 +100,8 @@
                     "owner": "a-nau",
                     "repo": "latex-devcontainer",
                     "stars": 30
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:21:08.759Z"
                 }
               ],
               "repo_info": {
@@ -106,8 +111,9 @@
                 "last_commit": "2026-06-21T09:36:55Z",
                 "owner": "viatsko",
                 "repo": "awesome-vscode",
-                "stars": 28976
-              }
+                "stars": 28983
+              },
+              "first_seen": "2026-08-28T21:21:08.759Z"
             },
             {
               "node_type": "item",
@@ -123,11 +129,12 @@
                     "archived": false,
                     "id": 13344397,
                     "language": "TeX",
-                    "last_commit": "2026-08-22T12:55:47Z",
+                    "last_commit": "2026-08-28T02:07:19Z",
                     "owner": "lervag",
                     "repo": "vimtex",
-                    "stars": 6352
-                  }
+                    "stars": 6351
+                  },
+                  "first_seen": "2026-08-28T21:21:08.759Z"
                 },
                 {
                   "node_type": "item",
@@ -142,7 +149,8 @@
                     "owner": "xuhdev",
                     "repo": "vim-latex-live-preview",
                     "stars": 853
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:21:08.759Z"
                 }
               ],
               "repo_info": {
@@ -152,8 +160,9 @@
                 "last_commit": "2023-12-22T22:15:38Z",
                 "owner": "mhinz",
                 "repo": "vim-galore",
-                "stars": 17962
-              }
+                "stars": 17965
+              },
+              "first_seen": "2026-08-28T21:21:08.759Z"
             },
             {
               "node_type": "item",
@@ -164,11 +173,12 @@
                 "archived": false,
                 "id": 22493222,
                 "language": null,
-                "last_commit": "2026-05-13T04:32:20Z",
+                "last_commit": "2026-08-28T19:15:40Z",
                 "owner": "emacs-tw",
                 "repo": "awesome-emacs",
-                "stars": 9369
-              }
+                "stars": 9371
+              },
+              "first_seen": "2026-08-28T21:21:08.759Z"
             },
             {
               "node_type": "item",
@@ -183,7 +193,8 @@
                 "owner": "mehcode",
                 "repo": "awesome-atom",
                 "stars": 1928
-              }
+              },
+              "first_seen": "2026-08-28T21:21:08.759Z"
             },
             {
               "node_type": "item",
@@ -203,7 +214,8 @@
                     "owner": "SublimeText",
                     "repo": "LaTeXTools",
                     "stars": 2022
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:21:08.759Z"
                 },
                 {
                   "node_type": "item",
@@ -218,7 +230,8 @@
                     "owner": "LaTeXing",
                     "repo": "LaTeXing",
                     "stars": 82
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:21:08.759Z"
                 }
               ],
               "repo_info": {
@@ -229,7 +242,8 @@
                 "owner": "dreikanter",
                 "repo": "sublime-bookmarks",
                 "stars": 1074
-              }
+              },
+              "first_seen": "2026-08-28T21:21:08.759Z"
             },
             {
               "node_type": "group",
@@ -249,7 +263,8 @@
                     "owner": "Hannah-Sten",
                     "repo": "TeXiFy-IDEA",
                     "stars": 984
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:21:08.759Z"
                 }
               ]
             }
@@ -277,8 +292,9 @@
                     "last_commit": "2026-08-24T18:52:13Z",
                     "owner": "aloth",
                     "repo": "olcli",
-                    "stars": 168
-                  }
+                    "stars": 169
+                  },
+                  "first_seen": "2026-08-28T21:21:08.759Z"
                 }
               ],
               "repo_info": {
@@ -288,8 +304,9 @@
                 "last_commit": "2026-07-10T15:01:30Z",
                 "owner": "overleaf",
                 "repo": "overleaf",
-                "stars": 18076
-              }
+                "stars": 18078
+              },
+              "first_seen": "2026-08-28T21:21:08.759Z"
             },
             {
               "node_type": "item",
@@ -304,7 +321,8 @@
                 "owner": "sanjib-sen",
                 "repo": "WebLaTex",
                 "stars": 1746
-              }
+              },
+              "first_seen": "2026-08-28T21:21:08.759Z"
             },
             {
               "node_type": "item",
@@ -319,7 +337,8 @@
                 "owner": "InMDev",
                 "repo": "Modern-LaTeX-Editor",
                 "stars": 39
-              }
+              },
+              "first_seen": "2026-08-28T21:21:08.759Z"
             },
             {
               "node_type": "item",
@@ -330,11 +349,12 @@
                 "archived": false,
                 "id": 1010976100,
                 "language": "Python",
-                "last_commit": "2026-08-26T09:58:28Z",
+                "last_commit": "2026-08-28T15:06:44Z",
                 "owner": "scitex-ai",
                 "repo": "scitex-hub",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T21:21:08.759Z"
             }
           ],
           "description": "Online editors that allow you to edit documents collaboratively.",
@@ -360,7 +380,8 @@
             "owner": "latex-lsp",
             "repo": "texlab",
             "stars": 2010
-          }
+          },
+          "first_seen": "2026-08-28T21:21:08.759Z"
         },
         {
           "node_type": "item",
@@ -371,11 +392,12 @@
             "archived": false,
             "id": 1262325065,
             "language": "Rust",
-            "last_commit": "2026-08-27T20:39:47Z",
+            "last_commit": "2026-08-28T20:47:26Z",
             "owner": "jolars",
             "repo": "badness",
             "stars": 67
-          }
+          },
+          "first_seen": "2026-08-28T21:21:08.759Z"
         }
       ],
       "title": "Language Servers"
@@ -395,8 +417,9 @@
             "last_commit": "2026-08-23T09:51:23Z",
             "owner": "papis",
             "repo": "papis",
-            "stars": 1771
-          }
+            "stars": 1772
+          },
+          "first_seen": "2026-08-28T21:21:08.759Z"
         },
         {
           "node_type": "item",
@@ -411,7 +434,8 @@
             "owner": "texworld",
             "repo": "betterbib",
             "stars": 839
-          }
+          },
+          "first_seen": "2026-08-28T21:21:08.759Z"
         },
         {
           "node_type": "item",
@@ -426,7 +450,8 @@
             "owner": "HzaCode",
             "repo": "OneCite",
             "stars": 65
-          }
+          },
+          "first_seen": "2026-08-28T21:21:08.759Z"
         },
         {
           "node_type": "item",
@@ -441,7 +466,8 @@
             "owner": "scitex-ai",
             "repo": "crossref-local",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T21:21:08.759Z"
         },
         {
           "node_type": "item",
@@ -456,7 +482,8 @@
             "owner": "scitex-ai",
             "repo": "openalex-local",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T21:21:08.759Z"
         }
       ],
       "title": "Bibliography tools"
@@ -477,7 +504,8 @@
             "owner": "islandoftex",
             "repo": "arara",
             "stars": 417
-          }
+          },
+          "first_seen": "2026-08-28T21:21:08.759Z"
         },
         {
           "children": [
@@ -494,7 +522,8 @@
                 "owner": "xu-cheng",
                 "repo": "latex-action",
                 "stars": 1410
-              }
+              },
+              "first_seen": "2026-08-28T21:21:08.759Z"
             },
             {
               "node_type": "item",
@@ -509,7 +538,8 @@
                 "owner": "dante-ev",
                 "repo": "latex-action",
                 "stars": 194
-              }
+              },
+              "first_seen": "2026-08-28T21:21:08.759Z"
             }
           ],
           "description": null,
@@ -535,7 +565,8 @@
             "owner": "Alexis-benoist",
             "repo": "CaTeX",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T21:21:08.759Z"
         },
         {
           "node_type": "item",
@@ -550,7 +581,8 @@
             "owner": "scitex-ai",
             "repo": "scitex-writer",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T21:21:08.759Z"
         },
         {
           "children": [
@@ -566,8 +598,9 @@
                 "last_commit": "2026-08-22T11:03:59Z",
                 "owner": "WGUNDERWOOD",
                 "repo": "tex-fmt",
-                "stars": 862
-              }
+                "stars": 861
+              },
+              "first_seen": "2026-08-28T21:21:08.759Z"
             },
             {
               "node_type": "item",
@@ -578,11 +611,12 @@
                 "archived": false,
                 "id": 1262325065,
                 "language": "Rust",
-                "last_commit": "2026-08-27T20:39:47Z",
+                "last_commit": "2026-08-28T20:47:26Z",
                 "owner": "jolars",
                 "repo": "badness",
                 "stars": 67
-              }
+              },
+              "first_seen": "2026-08-28T21:21:08.759Z"
             }
           ],
           "description": "Formatters keep the layout of your LaTeX source consistent, so that you can focus on the content.",
@@ -603,8 +637,9 @@
                 "last_commit": "2026-08-21T20:44:40Z",
                 "owner": "sylvainhalle",
                 "repo": "textidote",
-                "stars": 1056
-              }
+                "stars": 1055
+              },
+              "first_seen": "2026-08-28T21:21:08.759Z"
             },
             {
               "node_type": "item",
@@ -619,7 +654,8 @@
                 "owner": "texworld",
                 "repo": "blacktex",
                 "stars": 159
-              }
+              },
+              "first_seen": "2026-08-28T21:21:08.759Z"
             },
             {
               "node_type": "item",
@@ -630,11 +666,12 @@
                 "archived": false,
                 "id": 1262325065,
                 "language": "Rust",
-                "last_commit": "2026-08-27T20:39:47Z",
+                "last_commit": "2026-08-28T20:47:26Z",
                 "owner": "jolars",
                 "repo": "badness",
                 "stars": 67
-              }
+              },
+              "first_seen": "2026-08-28T21:21:08.759Z"
             },
             {
               "node_type": "item",
@@ -649,7 +686,8 @@
                 "owner": "YuZh98",
                 "repo": "latex2arxiv",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T21:21:08.759Z"
             }
           ],
           "description": null,
@@ -675,7 +713,8 @@
             "owner": "fredokun",
             "repo": "TikZ-Editor",
             "stars": 201
-          }
+          },
+          "first_seen": "2026-08-28T21:21:08.759Z"
         },
         {
           "node_type": "item",
@@ -690,7 +729,8 @@
             "owner": "hchapman",
             "repo": "tikzedt",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T21:21:08.759Z"
         }
       ],
       "title": "LaTeX-compatible GUI tools"
@@ -715,7 +755,8 @@
                     "owner": "nschloe",
                     "repo": "tikzplotlib",
                     "stars": 2580
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:21:08.759Z"
                 },
                 {
                   "node_type": "item",
@@ -729,8 +770,9 @@
                     "last_commit": "2026-05-31T18:16:01Z",
                     "owner": "matlab2tikz",
                     "repo": "matlab2tikz",
-                    "stars": 1741
-                  }
+                    "stars": 1743
+                  },
+                  "first_seen": "2026-08-28T21:21:08.759Z"
                 },
                 {
                   "node_type": "item",
@@ -745,7 +787,8 @@
                     "owner": "PetarV-",
                     "repo": "TikZ",
                     "stars": 1416
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:21:08.759Z"
                 },
                 {
                   "node_type": "item",
@@ -759,8 +802,9 @@
                     "last_commit": "2026-07-12T02:24:36Z",
                     "owner": "opentikz",
                     "repo": "opentikz",
-                    "stars": 255
-                  }
+                    "stars": 256
+                  },
+                  "first_seen": "2026-08-28T21:21:08.759Z"
                 }
               ],
               "description": "TikZ is an awesome package with many plugins that allow you to create figures from within your LaTeX documents. Typically, it is easier to get to work with than PSTricks is.",
@@ -791,7 +835,8 @@
             "owner": "martinbjeldbak",
             "repo": "ultimate-beamer-theme-list",
             "stars": 1794
-          }
+          },
+          "first_seen": "2026-08-28T21:21:08.759Z"
         },
         {
           "node_type": "item",
@@ -806,7 +851,8 @@
             "owner": "jdujava",
             "repo": "TeXtured",
             "stars": 275
-          }
+          },
+          "first_seen": "2026-08-28T21:21:08.759Z"
         },
         {
           "node_type": "item",
@@ -821,7 +867,8 @@
             "owner": "UweZiegenhagen",
             "repo": "LaTeX-Beamer-Theme-Overview",
             "stars": 55
-          }
+          },
+          "first_seen": "2026-08-28T21:21:08.759Z"
         }
       ],
       "title": "Templates"
@@ -842,7 +889,8 @@
             "owner": "MartinThoma",
             "repo": "LaTeX-examples",
             "stars": 1690
-          }
+          },
+          "first_seen": "2026-08-28T21:21:08.759Z"
         }
       ],
       "title": "Resources"
@@ -863,7 +911,8 @@
             "owner": "xinychen",
             "repo": "awesome-latex-drawing",
             "stars": 2047
-          }
+          },
+          "first_seen": "2026-08-28T21:21:08.759Z"
         }
       ],
       "title": "Showcases"
@@ -884,14 +933,15 @@
             "owner": "luong-komorebi",
             "repo": "Begin-Latex-in-minutes",
             "stars": 3287
-          }
+          },
+          "first_seen": "2026-08-28T21:21:08.759Z"
         }
       ],
       "title": "Tutorials"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T21:00:10.258Z",
+    "last_updated": "2026-08-28T21:21:08.759Z",
     "original_repository_info": {
       "archived": false,
       "id": 49157768,

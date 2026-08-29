@@ -73,11 +73,11 @@
                 "id": 1289704847,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-08-29T04:14:19Z",
-                "open_issues": 15,
+                "last_commit": "2026-08-29T15:32:13Z",
+                "open_issues": 16,
                 "owner": "Oleafly",
                 "repo": "Oleafly",
-                "stars": 89,
+                "stars": 90,
                 "topics": [
                   "academic-writing",
                   "ai",
@@ -131,7 +131,7 @@
                     "open_issues": 1,
                     "owner": "James-Yu",
                     "repo": "LaTeX-Workshop",
-                    "stars": 12294,
+                    "stars": 12297,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:21:08.759Z"
@@ -213,7 +213,7 @@
                     "open_issues": 3,
                     "owner": "lervag",
                     "repo": "vimtex",
-                    "stars": 6351,
+                    "stars": 6352,
                     "topics": [
                       "filetype-plugin",
                       "latex",
@@ -259,7 +259,7 @@
                 "open_issues": 13,
                 "owner": "mhinz",
                 "repo": "vim-galore",
-                "stars": 17965,
+                "stars": 17966,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -505,7 +505,7 @@
                 "open_issues": 172,
                 "owner": "overleaf",
                 "repo": "overleaf",
-                "stars": 18078,
+                "stars": 18077,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:21:08.759Z"
@@ -643,7 +643,7 @@
             "open_issues": 79,
             "owner": "latex-lsp",
             "repo": "texlab",
-            "stars": 2010,
+            "stars": 2011,
             "topics": [
               "language-server",
               "latex"
@@ -663,8 +663,8 @@
             "id": 1262325065,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-08-28T21:28:15Z",
-            "open_issues": 1,
+            "last_commit": "2026-08-29T08:10:55Z",
+            "open_issues": 0,
             "owner": "jolars",
             "repo": "badness",
             "stars": 67,
@@ -691,7 +691,7 @@
             "language": "HTML",
             "license": "GPL-3.0",
             "last_commit": "2026-08-23T09:51:23Z",
-            "open_issues": 80,
+            "open_issues": 81,
             "owner": "papis",
             "repo": "papis",
             "stars": 1772,
@@ -1064,8 +1064,8 @@
                 "id": 1262325065,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-08-28T21:28:15Z",
-                "open_issues": 1,
+                "last_commit": "2026-08-29T08:10:55Z",
+                "open_issues": 0,
                 "owner": "jolars",
                 "repo": "badness",
                 "stars": 67,
@@ -1144,8 +1144,8 @@
                 "id": 1262325065,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-08-28T21:28:15Z",
-                "open_issues": 1,
+                "last_commit": "2026-08-29T08:10:55Z",
+                "open_issues": 0,
                 "owner": "jolars",
                 "repo": "badness",
                 "stars": 67,
@@ -1295,7 +1295,7 @@
                     "open_issues": 264,
                     "owner": "matlab2tikz",
                     "repo": "matlab2tikz",
-                    "stars": 1744,
+                    "stars": 1745,
                     "topics": [
                       "latex",
                       "matlab",
@@ -1569,7 +1569,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:29:03.852Z",
+    "last_updated": "2026-08-29T15:35:57.295Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of LaTeX awesomeness",

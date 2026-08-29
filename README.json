@@ -10,12 +10,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Full TeX Live",
+            "homepage": "https://hub.docker.com/r/danteev/texlive/",
             "id": 94635509,
             "language": "Dockerfile",
+            "license": "MIT",
             "last_commit": "2026-06-28T12:40:41Z",
+            "open_issues": 7,
             "owner": "dante-ev",
             "repo": "docker-texlive",
-            "stars": 118
+            "stars": 118,
+            "topics": [
+              "texlive",
+              "texlive-distribution"
+            ]
           },
           "first_seen": "2026-08-28T21:21:08.759Z"
         },
@@ -26,12 +34,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Docker images for TeXlive that easily adjust to your needs",
+            "homepage": null,
             "id": 212058154,
             "language": "Dockerfile",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-25T21:32:13Z",
+            "open_issues": 2,
             "owner": "reitzig",
             "repo": "texlive-docker",
-            "stars": 31
+            "stars": 31,
+            "topics": [
+              "docker",
+              "docker-image",
+              "latex",
+              "texlive"
+            ]
           },
           "first_seen": "2026-08-28T21:21:08.759Z"
         }
@@ -50,12 +68,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The local-first AI assisted research workspace for scientific writing & publishing. Research, Write, Compile, Verify and Publish in LaTeX • Typst • Markdown • Git-native • Open Source • Desktop Performance",
+                "homepage": "https://oleafly.com",
                 "id": 1289704847,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T13:36:13Z",
+                "license": "AGPL-3.0",
+                "last_commit": "2026-08-29T04:14:19Z",
+                "open_issues": 15,
                 "owner": "Oleafly",
                 "repo": "Oleafly",
-                "stars": 85
+                "stars": 89,
+                "topics": [
+                  "academic-writing",
+                  "ai",
+                  "ai-assistant",
+                  "ai-editor",
+                  "cross-platform",
+                  "desktop-app",
+                  "latex",
+                  "latex-editor",
+                  "latex-resume",
+                  "latex-template",
+                  "latex-tools",
+                  "local-first",
+                  "markdown",
+                  "open-source",
+                  "openai-prism",
+                  "overleaf-alternative",
+                  "research",
+                  "research-paper",
+                  "resume",
+                  "typst"
+                ]
               },
               "first_seen": "2026-08-28T21:21:08.759Z"
             }
@@ -78,12 +122,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Boost LaTeX typesetting efficiency with preview, compile, autocomplete, colorize, and more.",
+                    "homepage": null,
                     "id": 77369463,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2026-08-26T02:55:56Z",
+                    "open_issues": 1,
                     "owner": "James-Yu",
                     "repo": "LaTeX-Workshop",
-                    "stars": 12294
+                    "stars": 12294,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:21:08.759Z"
                 },
@@ -94,24 +143,52 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Devcontainer for using LaTeX in VS Code with auto-formatting and one-click arXiv export and link check.",
+                    "homepage": null,
                     "id": 629837722,
                     "language": "Shell",
+                    "license": "MIT",
                     "last_commit": "2026-06-16T06:08:58Z",
+                    "open_issues": 1,
                     "owner": "a-nau",
                     "repo": "latex-devcontainer",
-                    "stars": 30
+                    "stars": 30,
+                    "topics": [
+                      "docker",
+                      "latex",
+                      "latex-workshop",
+                      "visual-studio-code",
+                      "vscode"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:21:08.759Z"
                 }
               ],
               "repo_info": {
                 "archived": false,
+                "description": "🎨 A curated list of delightful VS Code packages and resources.",
+                "homepage": "https://viatsko.github.io/awesome-vscode/",
                 "id": 51270739,
                 "language": "JavaScript",
+                "license": "CC0-1.0",
                 "last_commit": "2026-06-21T09:36:55Z",
+                "open_issues": 54,
                 "owner": "viatsko",
                 "repo": "awesome-vscode",
-                "stars": 28983
+                "stars": 28982,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "list",
+                  "visual-studio",
+                  "visual-studio-code",
+                  "visual-studio-code-extension",
+                  "visual-studio-code-theme",
+                  "visualstudio",
+                  "vscode",
+                  "vscode-extension",
+                  "vscode-theme"
+                ]
               },
               "first_seen": "2026-08-28T21:21:08.759Z"
             },
@@ -127,12 +204,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "VimTeX: A modern Vim and neovim filetype plugin for LaTeX files.",
+                    "homepage": "https://vimtex.org",
                     "id": 13344397,
                     "language": "TeX",
-                    "last_commit": "2026-08-28T02:07:19Z",
+                    "license": "MIT",
+                    "last_commit": "2026-08-28T22:14:13Z",
+                    "open_issues": 3,
                     "owner": "lervag",
                     "repo": "vimtex",
-                    "stars": 6351
+                    "stars": 6351,
+                    "topics": [
+                      "filetype-plugin",
+                      "latex",
+                      "neovim",
+                      "tex",
+                      "vim",
+                      "vim-plugin",
+                      "vimtex"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:21:08.759Z"
                 },
@@ -143,24 +233,46 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Vim Plugin for Lively Previewing LaTeX PDF Output",
+                    "homepage": "https://www.topbug.net/blog/2013/06/13/live-preview-of-latex-in-vim/",
                     "id": 4344069,
                     "language": "Vim Script",
+                    "license": "GPL-3.0",
                     "last_commit": "2025-11-03T05:23:04Z",
+                    "open_issues": 25,
                     "owner": "xuhdev",
                     "repo": "vim-latex-live-preview",
-                    "stars": 853
+                    "stars": 853,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:21:08.759Z"
                 }
               ],
               "repo_info": {
                 "archived": false,
+                "description": ":mortar_board: All things Vim!",
+                "homepage": null,
                 "id": 49010787,
                 "language": "Vim script",
+                "license": "CC-BY-SA-4.0",
                 "last_commit": "2023-12-22T22:15:38Z",
+                "open_issues": 13,
                 "owner": "mhinz",
                 "repo": "vim-galore",
-                "stars": 17965
+                "stars": 17965,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "guide",
+                  "help",
+                  "learn",
+                  "neovim",
+                  "tips",
+                  "tricks",
+                  "vim",
+                  "vim-scripts",
+                  "viml"
+                ]
               },
               "first_seen": "2026-08-28T21:21:08.759Z"
             },
@@ -171,12 +283,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A community driven list of useful Emacs packages, libraries and other items.",
+                "homepage": null,
                 "id": 22493222,
                 "language": null,
+                "license": "Unlicense",
                 "last_commit": "2026-08-28T19:15:40Z",
+                "open_issues": 36,
                 "owner": "emacs-tw",
                 "repo": "awesome-emacs",
-                "stars": 9371
+                "stars": 9371,
+                "topics": [
+                  "awesome-list",
+                  "emacs"
+                ]
               },
               "first_seen": "2026-08-28T21:21:08.759Z"
             },
@@ -187,12 +307,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A curated list of delightful Atom packages and resources.",
+                "homepage": null,
                 "id": 34370074,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2019-01-28T15:57:21Z",
+                "open_issues": 4,
                 "owner": "mehcode",
                 "repo": "awesome-atom",
-                "stars": 1928
+                "stars": 1928,
+                "topics": [
+                  "atom",
+                  "awesome",
+                  "awesome-list"
+                ]
               },
               "first_seen": "2026-08-28T21:21:08.759Z"
             },
@@ -208,12 +337,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "LaTeX plugin for Sublime Text",
+                    "homepage": "https://sublimetext.github.io/LaTeXTools/",
                     "id": 1530210,
                     "language": "Common Workflow Language",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-07-30T17:28:40Z",
+                    "open_issues": 64,
                     "owner": "SublimeText",
                     "repo": "LaTeXTools",
-                    "stars": 2022
+                    "stars": 2022,
+                    "topics": [
+                      "auto-complete",
+                      "latex",
+                      "sublime-snippets",
+                      "sublime-text",
+                      "sublime-text-package",
+                      "sublime-text-plugin"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:21:08.759Z"
                 },
@@ -224,24 +365,40 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "LaTeXing - Professional Typesetting - An extension for Sublime Text which makes your life  easier and more comfortable while creating your documents.",
+                    "homepage": null,
                     "id": 18030641,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2019-03-19T06:59:18Z",
+                    "open_issues": 141,
                     "owner": "LaTeXing",
                     "repo": "LaTeXing",
-                    "stars": 82
+                    "stars": 82,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:21:08.759Z"
                 }
               ],
               "repo_info": {
                 "archived": false,
+                "description": "Sublime Text essential plugins and resources",
+                "homepage": null,
                 "id": 21825936,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-01-15T15:02:30Z",
+                "open_issues": 1,
                 "owner": "dreikanter",
                 "repo": "sublime-bookmarks",
-                "stars": 1074
+                "stars": 1074,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "bookmarks",
+                  "list",
+                  "sublime-text"
+                ]
               },
               "first_seen": "2026-08-28T21:21:08.759Z"
             },
@@ -257,12 +414,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "LaTeX support for the IntelliJ platform by JetBrains.",
+                    "homepage": "https://hannah-sten.github.io/TeXiFy-IDEA",
                     "id": 62398769,
                     "language": "Kotlin",
+                    "license": "MIT",
                     "last_commit": "2026-08-20T06:33:08Z",
+                    "open_issues": 4,
                     "owner": "Hannah-Sten",
                     "repo": "TeXiFy-IDEA",
-                    "stars": 984
+                    "stars": 984,
+                    "topics": [
+                      "idea",
+                      "intellij",
+                      "intellij-platform",
+                      "intellij-plugin",
+                      "jetbrains",
+                      "latex",
+                      "latex-editor",
+                      "texify"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:21:08.759Z"
                 }
@@ -287,24 +458,55 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Overleaf CLI - pull, push, sync, compile LaTeX projects from your terminal. Git remote helper, MCP server for AI agents, and TypeScript library.",
+                    "homepage": "https://www.npmjs.com/package/@aloth/olcli",
                     "id": 1147798916,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2026-08-24T18:52:13Z",
+                    "open_issues": 2,
                     "owner": "aloth",
                     "repo": "olcli",
-                    "stars": 169
+                    "stars": 169,
+                    "topics": [
+                      "academic-writing",
+                      "agentskills",
+                      "ai-agents",
+                      "arxiv",
+                      "cli",
+                      "developer-tools",
+                      "git",
+                      "git-remote-helper",
+                      "homebrew",
+                      "latex",
+                      "mcp",
+                      "mcp-server",
+                      "model-context-protocol",
+                      "nodejs",
+                      "overleaf",
+                      "pdf",
+                      "research-tools",
+                      "sharelatex",
+                      "sync",
+                      "typescript"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:21:08.759Z"
                 }
               ],
               "repo_info": {
                 "archived": false,
+                "description": "A web-based collaborative LaTeX editor",
+                "homepage": null,
                 "id": 16652218,
                 "language": "JavaScript",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-07-10T15:01:30Z",
+                "open_issues": 172,
                 "owner": "overleaf",
                 "repo": "overleaf",
-                "stars": 18078
+                "stars": 18078,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:21:08.759Z"
             },
@@ -315,12 +517,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A complete alternative for Overleaf with VSCode + Web + Git Integration + Copilot + Grammar & Spell Checker + Live Collaboration Support. Based on GitHub Codespace and Dev container.",
+                "homepage": "https://github.com/sanjib-sen/weblatex/generate",
                 "id": 556191167,
                 "language": "TeX",
+                "license": "MIT",
                 "last_commit": "2024-05-23T01:16:42Z",
+                "open_issues": 16,
                 "owner": "sanjib-sen",
                 "repo": "WebLaTex",
-                "stars": 1746
+                "stars": 1746,
+                "topics": [
+                  "docker",
+                  "editor",
+                  "git",
+                  "github-config",
+                  "grammarly",
+                  "languagetool",
+                  "latex",
+                  "latex-editor",
+                  "overleaf",
+                  "tex",
+                  "texlive",
+                  "text-editor",
+                  "vscode"
+                ]
               },
               "first_seen": "2026-08-28T21:21:08.759Z"
             },
@@ -331,12 +552,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A hybrid LaTeX code + rich-text editor. It seamlessly syncs a rich-text What You See Is What You Get (WYSIWYG) view with raw LaTeX source code, featuring real-time KaTeX math preview and one-click PDF export via online compilers.",
+                "homepage": "https://inmdev.github.io/Modern-LaTeX-Editor/",
                 "id": 1128541532,
                 "language": "JavaScript",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-06-27T03:03:34Z",
+                "open_issues": 13,
                 "owner": "InMDev",
                 "repo": "Modern-LaTeX-Editor",
-                "stars": 39
+                "stars": 39,
+                "topics": [
+                  "editor",
+                  "javascript",
+                  "latex",
+                  "latex-editor",
+                  "live-preview",
+                  "react",
+                  "rich-text-editor",
+                  "tailwindcss",
+                  "vite",
+                  "wasm"
+                ]
               },
               "first_seen": "2026-08-28T21:21:08.759Z"
             },
@@ -347,12 +584,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SciTeX Hub deployment and management CLI",
+                "homepage": "https://scitex.ai",
                 "id": 1010976100,
                 "language": "Python",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-28T15:06:44Z",
+                "open_issues": 8,
                 "owner": "scitex-ai",
                 "repo": "scitex-hub",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "ai-agents",
+                  "claude-code",
+                  "cli",
+                  "django",
+                  "docker",
+                  "gitea",
+                  "mcp",
+                  "mcp-server",
+                  "open-science",
+                  "python",
+                  "reproducible-research",
+                  "research",
+                  "scientific-computing",
+                  "scitex",
+                  "scitex-ecosystem",
+                  "self-hosted",
+                  "web-app"
+                ]
               },
               "first_seen": "2026-08-28T21:21:08.759Z"
             }
@@ -374,12 +634,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An implementation of the Language Server Protocol for LaTeX",
+            "homepage": null,
             "id": 162715445,
             "language": "Rust",
+            "license": "GPL-3.0",
             "last_commit": "2026-07-27T01:34:58Z",
+            "open_issues": 79,
             "owner": "latex-lsp",
             "repo": "texlab",
-            "stars": 2010
+            "stars": 2010,
+            "topics": [
+              "language-server",
+              "latex"
+            ]
           },
           "first_seen": "2026-08-28T21:21:08.759Z"
         },
@@ -390,12 +658,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LaTeX language server, formatter, and linter",
+            "homepage": "https://badness.dev",
             "id": 1262325065,
             "language": "Rust",
-            "last_commit": "2026-08-28T20:47:26Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T21:28:15Z",
+            "open_issues": 1,
             "owner": "jolars",
             "repo": "badness",
-            "stars": 67
+            "stars": 67,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:08.759Z"
         }
@@ -412,12 +685,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Powerful and highly extensible command-line based document and bibliography manager.",
+            "homepage": "http://papis.readthedocs.io/en/latest/",
             "id": 82691622,
             "language": "HTML",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-23T09:51:23Z",
+            "open_issues": 80,
             "owner": "papis",
             "repo": "papis",
-            "stars": 1772
+            "stars": 1772,
+            "topics": [
+              "arxiv",
+              "biblatex",
+              "bibtex",
+              "citation",
+              "cli",
+              "command-line",
+              "command-line-tool",
+              "crossref",
+              "doi",
+              "jabref",
+              "libgen",
+              "library",
+              "mendeley",
+              "papers",
+              "papis",
+              "publications",
+              "scholar",
+              "sci-hub",
+              "tex",
+              "zotero"
+            ]
           },
           "first_seen": "2026-08-28T21:21:08.759Z"
         },
@@ -428,12 +727,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":green_book: Command-line tools for bibliographies.",
+            "homepage": null,
             "id": 12219673,
             "language": null,
+            "license": null,
             "last_commit": "2025-04-08T14:01:48Z",
+            "open_issues": 3,
             "owner": "texworld",
             "repo": "betterbib",
-            "stars": 839
+            "stars": 839,
+            "topics": [
+              "bibtex",
+              "latex",
+              "pypi",
+              "python",
+              "reference-management"
+            ]
           },
           "first_seen": "2026-08-28T21:21:08.759Z"
         },
@@ -444,12 +754,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📚 Only Cite what you can verify",
+            "homepage": "https://hezhiang.com/OneCite/",
             "id": 1036400028,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-06T09:53:48Z",
+            "open_issues": 1,
             "owner": "HzaCode",
             "repo": "OneCite",
-            "stars": 65
+            "stars": 65,
+            "topics": [
+              "agent-skills",
+              "arxiv",
+              "bibliography",
+              "bibtex",
+              "citation",
+              "citation-style-language",
+              "citeproc",
+              "cli",
+              "crossref",
+              "datacite",
+              "doi",
+              "latex",
+              "pubmed",
+              "python",
+              "reference-manager",
+              "semantic-scholar",
+              "zenodo"
+            ]
           },
           "first_seen": "2026-08-28T21:21:08.759Z"
         },
@@ -460,12 +793,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Local CrossRef database with 167M+ works and full-text search",
+            "homepage": "https://scitex.ai",
             "id": 1038299630,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-19T04:55:58Z",
+            "open_issues": 2,
             "owner": "scitex-ai",
             "repo": "crossref-local",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "abstract",
+              "bibliography",
+              "citation",
+              "claude",
+              "cli",
+              "crossref",
+              "doi",
+              "fts5",
+              "full-text-search",
+              "impact-factor",
+              "localhost",
+              "mcp",
+              "open-science",
+              "python",
+              "reproducible-research",
+              "research",
+              "scholarly",
+              "scientific-papers",
+              "scitex",
+              "sqlite"
+            ]
           },
           "first_seen": "2026-08-28T21:21:08.759Z"
         },
@@ -476,12 +835,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Local OpenAlex database with 284M+ works, abstracts, and semantic search",
+            "homepage": "https://openalex-local.readthedocs.io",
             "id": 1133931782,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-19T04:56:06Z",
+            "open_issues": 2,
             "owner": "scitex-ai",
             "repo": "openalex-local",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "academic",
+              "bibliography",
+              "claude-code",
+              "fts5",
+              "literature-review",
+              "mcp",
+              "open-science",
+              "openalex",
+              "python",
+              "rag",
+              "reproducible-research",
+              "research",
+              "scitex",
+              "scitex-ecosystem",
+              "semantic-search",
+              "sqlite"
+            ]
           },
           "first_seen": "2026-08-28T21:21:08.759Z"
         }
@@ -498,12 +879,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "arara is a TeX automation tool based on rules and directives. It gives you a way to enhance your TeX experience. This is a mirror repository.",
+            "homepage": "https://gitlab.com/islandoftex/arara",
             "id": 3951404,
             "language": "Kotlin",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-07-12T21:59:46Z",
+            "open_issues": 11,
             "owner": "islandoftex",
             "repo": "arara",
-            "stars": 417
+            "stars": 417,
+            "topics": [
+              "automation",
+              "java",
+              "latex",
+              "tex"
+            ]
           },
           "first_seen": "2026-08-28T21:21:08.759Z"
         },
@@ -516,12 +907,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":octocat: GitHub Action to compile LaTeX documents",
+                "homepage": "https://github.com/xu-cheng/latex-action",
                 "id": 203533074,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2026-07-30T19:34:46Z",
+                "open_issues": 1,
                 "owner": "xu-cheng",
                 "repo": "latex-action",
-                "stars": 1410
+                "stars": 1410,
+                "topics": [
+                  "github-actions",
+                  "latex"
+                ]
               },
               "first_seen": "2026-08-28T21:21:08.759Z"
             },
@@ -532,12 +931,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":octocat: GitHub Action to compile LaTeX documents",
+                "homepage": null,
                 "id": 210929017,
                 "language": "TeX",
+                "license": "MIT",
                 "last_commit": "2026-06-28T12:57:23Z",
+                "open_issues": 5,
                 "owner": "dante-ev",
                 "repo": "latex-action",
-                "stars": 194
+                "stars": 194,
+                "topics": [
+                  "github-action",
+                  "github-actions",
+                  "github-actions-docker",
+                  "latex",
+                  "latexmk",
+                  "lualatex",
+                  "pdflatex"
+                ]
               },
               "first_seen": "2026-08-28T21:21:08.759Z"
             }
@@ -559,12 +971,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Concatenates LaTeX documents.",
+            "homepage": null,
             "id": 62837194,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2022-12-26T20:15:02Z",
+            "open_issues": 3,
             "owner": "Alexis-benoist",
             "repo": "CaTeX",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:08.759Z"
         },
@@ -575,12 +992,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LaTeX manuscript compilation for scientific documents, with MCP server",
+            "homepage": "https://scitex.ai",
             "id": 977310383,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-24T19:25:18Z",
+            "open_issues": 3,
             "owner": "scitex-ai",
             "repo": "scitex-writer",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "academic",
+              "arxiv",
+              "bibtex",
+              "cli",
+              "compilation",
+              "diff",
+              "latex",
+              "manuscript",
+              "mcp",
+              "open-science",
+              "paper",
+              "pdf",
+              "publishing",
+              "python",
+              "reproducible-research",
+              "scientific-writing",
+              "scitex",
+              "versioning"
+            ]
           },
           "first_seen": "2026-08-28T21:21:08.759Z"
         },
@@ -593,12 +1034,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An extremely fast LaTeX formatter written in Rust",
+                "homepage": "https://wgunderwood.github.io/tex-fmt/",
                 "id": 791561724,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-08-22T11:03:59Z",
+                "open_issues": 34,
                 "owner": "WGUNDERWOOD",
                 "repo": "tex-fmt",
-                "stars": 861
+                "stars": 861,
+                "topics": [
+                  "formatter",
+                  "latex",
+                  "rust"
+                ]
               },
               "first_seen": "2026-08-28T21:21:08.759Z"
             },
@@ -609,12 +1059,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "LaTeX language server, formatter, and linter",
+                "homepage": "https://badness.dev",
                 "id": 1262325065,
                 "language": "Rust",
-                "last_commit": "2026-08-28T20:47:26Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T21:28:15Z",
+                "open_issues": 1,
                 "owner": "jolars",
                 "repo": "badness",
-                "stars": 67
+                "stars": 67,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:21:08.759Z"
             }
@@ -632,12 +1087,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Spelling, grammar and style checking on LaTeX documents",
+                "homepage": "https://sylvainhalle.github.io/textidote",
                 "id": 136962671,
                 "language": "Java",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-21T20:44:40Z",
+                "open_issues": 38,
                 "owner": "sylvainhalle",
                 "repo": "textidote",
-                "stars": 1055
+                "stars": 1055,
+                "topics": [
+                  "grammar-checker",
+                  "languagetool",
+                  "latex",
+                  "linter",
+                  "spell-check",
+                  "spell-checker"
+                ]
               },
               "first_seen": "2026-08-28T21:21:08.759Z"
             },
@@ -648,12 +1115,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":black_heart: Cleans up your LaTeX files.",
+                "homepage": null,
                 "id": 137203709,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-01-22T14:39:14Z",
+                "open_issues": 1,
                 "owner": "texworld",
                 "repo": "blacktex",
-                "stars": 159
+                "stars": 159,
+                "topics": [
+                  "latex",
+                  "linter"
+                ]
               },
               "first_seen": "2026-08-28T21:21:08.759Z"
             },
@@ -664,12 +1139,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "LaTeX language server, formatter, and linter",
+                "homepage": "https://badness.dev",
                 "id": 1262325065,
                 "language": "Rust",
-                "last_commit": "2026-08-28T20:47:26Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T21:28:15Z",
+                "open_issues": 1,
                 "owner": "jolars",
                 "repo": "badness",
-                "stars": 67
+                "stars": 67,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:21:08.759Z"
             },
@@ -680,12 +1160,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Submit to arXiv without the headache. One command cleans your LaTeX project, catches rejection-causing errors, and walks you through the upload.",
+                "homepage": "https://pypi.org/project/latex2arxiv/",
                 "id": 1226818909,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-30T01:16:13Z",
+                "open_issues": 1,
                 "owner": "YuZh98",
                 "repo": "latex2arxiv",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "academic-publishing",
+                  "arxiv",
+                  "bibtex",
+                  "cli",
+                  "continuous-integration",
+                  "homebrew",
+                  "homebrew-tap",
+                  "latex",
+                  "mcp-server",
+                  "overleaf",
+                  "preprint",
+                  "submission",
+                  "tex",
+                  "validator"
+                ]
               },
               "first_seen": "2026-08-28T21:21:08.759Z"
             }
@@ -707,12 +1207,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TikZ Editor is a free code editor for the LaTeX graphic package TikZ.",
+            "homepage": null,
             "id": 4287999,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2024-03-25T15:36:33Z",
+            "open_issues": 14,
             "owner": "fredokun",
             "repo": "TikZ-Editor",
-            "stars": 201
+            "stars": 201,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:08.759Z"
         },
@@ -723,12 +1228,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automatically exported from code.google.com/p/tikzedt",
+            "homepage": null,
             "id": 37079197,
             "language": "C#",
+            "license": null,
             "last_commit": "2015-06-08T16:44:04Z",
+            "open_issues": 35,
             "owner": "hchapman",
             "repo": "tikzedt",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:08.759Z"
         }
@@ -749,12 +1259,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": ":bar_chart: Save matplotlib figures as TikZ/PGFplots for smooth integration into LaTeX.",
+                    "homepage": null,
                     "id": 472623,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-08-16T05:00:45Z",
+                    "open_issues": 137,
                     "owner": "nschloe",
                     "repo": "tikzplotlib",
-                    "stars": 2580
+                    "stars": 2581,
+                    "topics": [
+                      "latex",
+                      "matplotlib",
+                      "pgfplots",
+                      "python",
+                      "tikz"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:21:08.759Z"
                 },
@@ -765,12 +1286,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "This program converts MATLAB®/Octave figures to TikZ/pgfplots figures for smooth integration into LaTeX.",
+                    "homepage": "http://www.mathworks.com/matlabcentral/fileexchange/22022-matlab2tikz",
                     "id": 579842,
                     "language": "MATLAB",
+                    "license": "BSD-2-Clause",
                     "last_commit": "2026-05-31T18:16:01Z",
+                    "open_issues": 264,
                     "owner": "matlab2tikz",
                     "repo": "matlab2tikz",
-                    "stars": 1743
+                    "stars": 1744,
+                    "topics": [
+                      "latex",
+                      "matlab",
+                      "matlab2tikz",
+                      "octave",
+                      "pgfplots",
+                      "tikz"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:21:08.759Z"
                 },
@@ -781,12 +1314,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Complete collection of my PGF/TikZ figures.",
+                    "homepage": null,
                     "id": 63618921,
                     "language": "TeX",
+                    "license": "MIT",
                     "last_commit": "2023-05-05T18:14:07Z",
+                    "open_issues": 1,
                     "owner": "PetarV-",
                     "repo": "TikZ",
-                    "stars": 1416
+                    "stars": 1416,
+                    "topics": [
+                      "graphics",
+                      "latex",
+                      "pgf",
+                      "tikz",
+                      "tikz-figures"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:21:08.759Z"
                 },
@@ -797,12 +1341,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "TikZ for paper diagrams, without hand-writing TikZ — copyable icons, editable templates, and a Claude Code skill",
+                    "homepage": "https://opentikz.org/",
                     "id": 1261717201,
                     "language": "TeX",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-07-12T02:24:36Z",
+                    "open_issues": 0,
                     "owner": "opentikz",
                     "repo": "opentikz",
-                    "stars": 256
+                    "stars": 256,
+                    "topics": [
+                      "agents",
+                      "ai",
+                      "latex",
+                      "papers",
+                      "skill-md",
+                      "skills",
+                      "tikz",
+                      "tikz-figures",
+                      "tikz-library"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:21:08.759Z"
                 }
@@ -829,12 +1388,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of Beamer themes from the community",
+            "homepage": null,
             "id": 24120212,
             "language": null,
+            "license": null,
             "last_commit": "2026-06-22T20:52:16Z",
+            "open_issues": 1,
             "owner": "martinbjeldbak",
             "repo": "ultimate-beamer-theme-list",
-            "stars": 1794
+            "stars": 1794,
+            "topics": [
+              "beamer",
+              "beamer-template",
+              "latex",
+              "latex-beamer",
+              "latex-pdf",
+              "latex-template",
+              "pdf",
+              "presentation",
+              "presentation-tools",
+              "tex"
+            ]
           },
           "first_seen": "2026-08-28T21:21:08.759Z"
         },
@@ -845,12 +1420,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " A typographically elegant, clean, and structured LaTeX template.",
+            "homepage": "https://jdujava.github.io/TeXtured/thesis.pdf",
             "id": 865566413,
             "language": "TeX",
+            "license": "CC0-1.0",
             "last_commit": "2026-05-05T17:17:10Z",
+            "open_issues": 9,
             "owner": "jdujava",
             "repo": "TeXtured",
-            "stars": 275
+            "stars": 275,
+            "topics": [
+              "design",
+              "latex",
+              "latex-template",
+              "latex-thesis-template",
+              "template",
+              "tex",
+              "tips-and-tricks",
+              "typography"
+            ]
           },
           "first_seen": "2026-08-28T21:21:08.759Z"
         },
@@ -861,12 +1450,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An overview of Beamer themes",
+            "homepage": null,
             "id": 500043351,
             "language": "TeX",
+            "license": null,
             "last_commit": "2025-09-05T14:36:00Z",
+            "open_issues": 1,
             "owner": "UweZiegenhagen",
             "repo": "LaTeX-Beamer-Theme-Overview",
-            "stars": 55
+            "stars": 55,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:08.759Z"
         }
@@ -883,12 +1477,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Examples for the usage of LaTeX",
+            "homepage": null,
             "id": 5351405,
             "language": "TeX",
+            "license": "MIT",
             "last_commit": "2024-10-19T09:23:33Z",
+            "open_issues": 5,
             "owner": "MartinThoma",
             "repo": "LaTeX-examples",
-            "stars": 1690
+            "stars": 1690,
+            "topics": [
+              "latex",
+              "mathematics",
+              "research",
+              "science",
+              "tex",
+              "tikz"
+            ]
           },
           "first_seen": "2026-08-28T21:21:08.759Z"
         }
@@ -905,12 +1511,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Drawing Bayesian networks, graphical models, tensors, technical frameworks, and illustrations in LaTeX.",
+            "homepage": "https://spatiotemporal-data.github.io/awesome-latex-drawing/",
             "id": 165196316,
             "language": "TeX",
+            "license": "MIT",
             "last_commit": "2025-05-26T00:13:06Z",
+            "open_issues": 1,
             "owner": "xinychen",
             "repo": "awesome-latex-drawing",
-            "stars": 2047
+            "stars": 2047,
+            "topics": [
+              "latex",
+              "machine-learning"
+            ]
           },
           "first_seen": "2026-08-28T21:21:08.759Z"
         }
@@ -927,12 +1541,26 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "📜 Brief Intro to LaTeX for beginners that helps you use LaTeX with ease. ",
+            "homepage": "https://luong-komorebi.github.io/Begin-Latex-in-minutes/",
             "id": 72344173,
             "language": null,
+            "license": null,
             "last_commit": "2020-11-24T04:55:09Z",
+            "open_issues": 3,
             "owner": "luong-komorebi",
             "repo": "Begin-Latex-in-minutes",
-            "stars": 3287
+            "stars": 3287,
+            "topics": [
+              "basic",
+              "beginners",
+              "fast",
+              "guide",
+              "latex",
+              "latex-editor",
+              "latex-in-minutes",
+              "simple"
+            ]
           },
           "first_seen": "2026-08-28T21:21:08.759Z"
         }
@@ -941,15 +1569,20 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T21:21:08.759Z",
+    "last_updated": "2026-08-29T04:29:03.852Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Curated list of LaTeX awesomeness",
+      "homepage": null,
       "id": 49157768,
       "language": null,
+      "license": "NOASSERTION",
       "last_commit": "2026-08-08T07:42:44Z",
+      "open_issues": 4,
       "owner": "egeerardyn",
       "repo": "awesome-LaTeX",
-      "stars": 1664
+      "stars": 1664,
+      "topics": []
     },
     "original_repository_sha": "649d5293a16afcb0d91cd98cdc68da1248784f93",
     "enhanced_repository": "enhansome/enhansome-LaTeX",

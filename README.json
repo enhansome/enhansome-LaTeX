@@ -73,11 +73,11 @@
                 "id": 1289704847,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-14T15:58:03Z",
-                "open_issues": 25,
+                "last_commit": "2026-09-15T11:56:30Z",
+                "open_issues": 26,
                 "owner": "Oleafly",
                 "repo": "Oleafly",
-                "stars": 160,
+                "stars": 163,
                 "topics": [
                   "academic-writing",
                   "ai",
@@ -127,11 +127,11 @@
                     "id": 77369463,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-09-13T07:42:59Z",
+                    "last_commit": "2026-09-15T08:12:30Z",
                     "open_issues": 0,
                     "owner": "James-Yu",
                     "repo": "LaTeX-Workshop",
-                    "stars": 12321,
+                    "stars": 12322,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:21:08.759Z"
@@ -175,7 +175,7 @@
                 "open_issues": 59,
                 "owner": "viatsko",
                 "repo": "awesome-vscode",
-                "stars": 29032,
+                "stars": 29038,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -259,7 +259,7 @@
                 "open_issues": 13,
                 "owner": "mhinz",
                 "repo": "vim-galore",
-                "stars": 17976,
+                "stars": 17979,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -419,8 +419,8 @@
                     "id": 62398769,
                     "language": "Kotlin",
                     "license": "MIT",
-                    "last_commit": "2026-09-14T10:44:59Z",
-                    "open_issues": 2,
+                    "last_commit": "2026-09-14T17:48:54Z",
+                    "open_issues": 5,
                     "owner": "Hannah-Sten",
                     "repo": "TeXiFy-IDEA",
                     "stars": 984,
@@ -467,7 +467,7 @@
                     "open_issues": 1,
                     "owner": "aloth",
                     "repo": "olcli",
-                    "stars": 187,
+                    "stars": 189,
                     "topics": [
                       "academic-writing",
                       "agentskills",
@@ -505,7 +505,7 @@
                 "open_issues": 176,
                 "owner": "overleaf",
                 "repo": "overleaf",
-                "stars": 18128,
+                "stars": 18136,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:21:08.759Z"
@@ -526,7 +526,7 @@
                 "open_issues": 16,
                 "owner": "sanjib-sen",
                 "repo": "WebLaTex",
-                "stars": 1750,
+                "stars": 1751,
                 "topics": [
                   "docker",
                   "editor",
@@ -589,8 +589,8 @@
                 "id": 1010976100,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-14T16:40:40Z",
-                "open_issues": 19,
+                "last_commit": "2026-09-15T15:21:52Z",
+                "open_issues": 18,
                 "owner": "scitex-ai",
                 "repo": "scitex-hub",
                 "stars": 2,
@@ -916,7 +916,7 @@
                 "open_issues": 1,
                 "owner": "xu-cheng",
                 "repo": "latex-action",
-                "stars": 1410,
+                "stars": 1411,
                 "topics": [
                   "github-actions",
                   "latex"
@@ -997,7 +997,7 @@
             "id": 977310383,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-14T16:07:10Z",
+            "last_commit": "2026-09-15T04:04:28Z",
             "open_issues": 0,
             "owner": "scitex-ai",
             "repo": "scitex-writer",
@@ -1043,7 +1043,7 @@
                 "open_issues": 38,
                 "owner": "WGUNDERWOOD",
                 "repo": "tex-fmt",
-                "stars": 866,
+                "stars": 867,
                 "topics": [
                   "formatter",
                   "latex",
@@ -1520,7 +1520,7 @@
             "open_issues": 1,
             "owner": "xinychen",
             "repo": "awesome-latex-drawing",
-            "stars": 2054,
+            "stars": 2056,
             "topics": [
               "latex",
               "machine-learning"
@@ -1569,7 +1569,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T16:56:37.789Z",
+    "last_updated": "2026-09-15T15:32:22.665Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of LaTeX awesomeness",

@@ -43,7 +43,7 @@
             "open_issues": 2,
             "owner": "reitzig",
             "repo": "texlive-docker",
-            "stars": 31,
+            "stars": 30,
             "topics": [
               "docker",
               "docker-image",
@@ -73,8 +73,8 @@
                 "id": 1289704847,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-02T16:04:39Z",
-                "open_issues": 18,
+                "last_commit": "2026-10-03T03:52:11Z",
+                "open_issues": 19,
                 "owner": "Oleafly",
                 "repo": "Oleafly",
                 "stars": 194,
@@ -113,7 +113,7 @@
             {
               "node_type": "item",
               "title": "VS Code",
-              "description": null,
+              "description": "viatsko/awesome-vscode",
               "children": [
                 {
                   "node_type": "item",
@@ -131,7 +131,7 @@
                     "open_issues": 4,
                     "owner": "James-Yu",
                     "repo": "LaTeX-Workshop",
-                    "stars": 12350,
+                    "stars": 12351,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:21:08.759Z"
@@ -172,10 +172,10 @@
                 "language": "JavaScript",
                 "license": "CC0-1.0",
                 "last_commit": "2026-06-21T09:36:55Z",
-                "open_issues": 70,
+                "open_issues": 72,
                 "owner": "viatsko",
                 "repo": "awesome-vscode",
-                "stars": 29089,
+                "stars": 29092,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -195,7 +195,7 @@
             {
               "node_type": "item",
               "title": "Vim",
-              "description": null,
+              "description": "mhinz/vim-galore",
               "children": [
                 {
                   "node_type": "item",
@@ -259,7 +259,7 @@
                 "open_issues": 13,
                 "owner": "mhinz",
                 "repo": "vim-galore",
-                "stars": 18008,
+                "stars": 18009,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -279,7 +279,7 @@
             {
               "node_type": "item",
               "title": "Emacs",
-              "description": null,
+              "description": "emacs-tw/awesome-emacs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -292,7 +292,7 @@
                 "open_issues": 34,
                 "owner": "emacs-tw",
                 "repo": "awesome-emacs",
-                "stars": 9386,
+                "stars": 9388,
                 "topics": [
                   "awesome-list",
                   "emacs"
@@ -303,7 +303,7 @@
             {
               "node_type": "item",
               "title": "Atom",
-              "description": null,
+              "description": "mehcode/awesome-atom",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -316,7 +316,7 @@
                 "open_issues": 4,
                 "owner": "mehcode",
                 "repo": "awesome-atom",
-                "stars": 1929,
+                "stars": 1930,
                 "topics": [
                   "atom",
                   "awesome",
@@ -328,7 +328,7 @@
             {
               "node_type": "item",
               "title": "Sublime Text",
-              "description": null,
+              "description": "dreikanter/sublime-bookmarks",
               "children": [
                 {
                   "node_type": "item",
@@ -589,7 +589,7 @@
                 "id": 1010976100,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-02T04:36:30Z",
+                "last_commit": "2026-10-03T02:47:17Z",
                 "open_issues": 21,
                 "owner": "scitex-ai",
                 "repo": "scitex-hub",
@@ -736,7 +736,7 @@
             "open_issues": 3,
             "owner": "texworld",
             "repo": "betterbib",
-            "stars": 840,
+            "stars": 839,
             "topics": [
               "bibtex",
               "latex",
@@ -916,7 +916,7 @@
                 "open_issues": 1,
                 "owner": "xu-cheng",
                 "repo": "latex-action",
-                "stars": 1416,
+                "stars": 1415,
                 "topics": [
                   "github-actions",
                   "latex"
@@ -997,8 +997,8 @@
             "id": 977310383,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-01T19:43:16Z",
-            "open_issues": 4,
+            "last_commit": "2026-10-03T02:16:20Z",
+            "open_issues": 2,
             "owner": "scitex-ai",
             "repo": "scitex-writer",
             "stars": 3,
@@ -1096,7 +1096,7 @@
                 "open_issues": 37,
                 "owner": "sylvainhalle",
                 "repo": "textidote",
-                "stars": 1057,
+                "stars": 1056,
                 "topics": [
                   "grammar-checker",
                   "languagetool",
@@ -1295,7 +1295,7 @@
                     "open_issues": 264,
                     "owner": "matlab2tikz",
                     "repo": "matlab2tikz",
-                    "stars": 1759,
+                    "stars": 1758,
                     "topics": [
                       "latex",
                       "matlab",
@@ -1323,7 +1323,7 @@
                     "open_issues": 1,
                     "owner": "PetarV-",
                     "repo": "TikZ",
-                    "stars": 1421,
+                    "stars": 1420,
                     "topics": [
                       "graphics",
                       "latex",
@@ -1520,7 +1520,7 @@
             "open_issues": 1,
             "owner": "xinychen",
             "repo": "awesome-latex-drawing",
-            "stars": 2059,
+            "stars": 2058,
             "topics": [
               "latex",
               "machine-learning"
@@ -1569,7 +1569,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T16:36:53.709Z",
+    "last_updated": "2026-10-03T04:33:07.646Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of LaTeX awesomeness",
@@ -1581,7 +1581,7 @@
       "open_issues": 7,
       "owner": "egeerardyn",
       "repo": "awesome-LaTeX",
-      "stars": 1673,
+      "stars": 1672,
       "topics": []
     },
     "original_repository_sha": "649d5293a16afcb0d91cd98cdc68da1248784f93",

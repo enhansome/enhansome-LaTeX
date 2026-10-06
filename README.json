@@ -73,11 +73,11 @@
                 "id": 1289704847,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-06T07:02:12Z",
-                "open_issues": 21,
+                "last_commit": "2026-10-06T14:18:24Z",
+                "open_issues": 22,
                 "owner": "Oleafly",
                 "repo": "Oleafly",
-                "stars": 201,
+                "stars": 203,
                 "topics": [
                   "academic-writing",
                   "ai",
@@ -131,7 +131,7 @@
                     "open_issues": 5,
                     "owner": "James-Yu",
                     "repo": "LaTeX-Workshop",
-                    "stars": 12353,
+                    "stars": 12354,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:21:08.759Z"
@@ -172,10 +172,10 @@
                 "language": "JavaScript",
                 "license": "CC0-1.0",
                 "last_commit": "2026-06-21T09:36:55Z",
-                "open_issues": 75,
+                "open_issues": 77,
                 "owner": "viatsko",
                 "repo": "awesome-vscode",
-                "stars": 29099,
+                "stars": 29101,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -505,7 +505,7 @@
                 "open_issues": 173,
                 "owner": "overleaf",
                 "repo": "overleaf",
-                "stars": 18211,
+                "stars": 18212,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:21:08.759Z"
@@ -667,7 +667,7 @@
             "open_issues": 2,
             "owner": "jolars",
             "repo": "badness",
-            "stars": 82,
+            "stars": 83,
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:08.759Z"
@@ -1068,7 +1068,7 @@
                 "open_issues": 2,
                 "owner": "jolars",
                 "repo": "badness",
-                "stars": 82,
+                "stars": 83,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:21:08.759Z"
@@ -1148,7 +1148,7 @@
                 "open_issues": 2,
                 "owner": "jolars",
                 "repo": "badness",
-                "stars": 82,
+                "stars": 83,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:21:08.759Z"
@@ -1550,7 +1550,7 @@
             "open_issues": 3,
             "owner": "luong-komorebi",
             "repo": "Begin-Latex-in-minutes",
-            "stars": 3284,
+            "stars": 3283,
             "topics": [
               "basic",
               "beginners",
@@ -1569,7 +1569,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:48:31.993Z",
+    "last_updated": "2026-10-06T17:09:56.549Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of LaTeX awesomeness",

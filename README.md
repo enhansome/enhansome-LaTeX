@@ -64,7 +64,7 @@ Guides how to learn LaTeX
 
 When one aims for a ready-to-run LaTeX environment without installing, Docker images might be the choice.
 
-* [dante-ev/docker-texlive](https://github.com/dante-ev/docker-texlive) ⭐ 118 | 🐛 0 | 🌐 Dockerfile | 📅 2026-10-16 - debian-based full TeXLive system with additions with pandoc, perl, and python pre-installed
+* [dante-ev/docker-texlive](https://github.com/dante-ev/docker-texlive) ⭐ 118 | 🐛 0 | 🌐 Dockerfile | 📅 2026-10-18 - debian-based full TeXLive system with additions with pandoc, perl, and python pre-installed
 * [reitzig/texlive-docker](https://github.com/reitzig/texlive-docker) ⭐ 30 | 🐛 2 | 🌐 Dockerfile | 📅 2026-10-03 - minimal TeXLive system with package installation possibility
 * [Island of TeX/texlive](https://gitlab.com/islandoftex/images/texlive) - debian-based full TeXLive system
 
@@ -97,7 +97,7 @@ A complete list of LaTeX editors is collected at [tex.stackexchange.com](https:/
 
 Some of the most awesome editor for LaTeX do just that: edit LaTeX.
 
-* [Oleafly](https://github.com/Oleafly/Oleafly) ⭐ 250 | 🐛 25 | 🌐 TypeScript | 📅 2026-10-18 - Free, open-source desktop editor for LaTeX, Typst, and Markdown with live PDF preview, SyncTeX, bundled engines, and Git-native projects. ![foss]
+* [Oleafly](https://github.com/Oleafly/Oleafly) ⭐ 258 | 🐛 21 | 🌐 TypeScript | 📅 2026-10-19 - Free, open-source desktop editor for LaTeX, Typst, and Markdown with live PDF preview, SyncTeX, bundled engines, and Git-native projects. ![foss]
 * [Kile](https://kile.sourceforge.io) - Great LaTeX editor originally from the Linux/KDE community. It runs fine on Windows and macOS as well. ![foss]
 * [TeXMaker](https://www.xm1math.net/texmaker/) - Pretty good alternative to Kile.
 * [TeXStudio](https://www.texstudio.org) - Cross-platform LaTeX editor that stems from TeXMaker.
@@ -114,16 +114,16 @@ Some of the most awesome editor for LaTeX do just that: edit LaTeX.
 
 These editors are no one-trick ponies: sure, they edit LaTeX, but they can do a lot more!
 
-* [VS Code](https://code.visualstudio.com/) [![VS Code][awesome]](https://github.com/viatsko/awesome-vscode) ⭐ 29,127 | 🐛 84 | 🌐 JavaScript | 📅 2026-06-21 ![foss]
-  * [LaTeX Workshop](https://github.com/James-Yu/LaTeX-Workshop) ⭐ 12,368 | 🐛 3 | 🌐 TypeScript | 📅 2026-10-17 - LaTeX extension for Visual Studio Code ![foss]
+* [VS Code](https://code.visualstudio.com/) [![VS Code][awesome]](https://github.com/viatsko/awesome-vscode) ⭐ 29,134 | 🐛 85 | 🌐 JavaScript | 📅 2026-06-21 ![foss]
+  * [LaTeX Workshop](https://github.com/James-Yu/LaTeX-Workshop) ⭐ 12,369 | 🐛 3 | 🌐 TypeScript | 📅 2026-10-17 - LaTeX extension for Visual Studio Code ![foss]
   * [a-nau/latex-devcontainer](https://github.com/a-nau/latex-devcontainer) ⭐ 30 | 🐛 1 | 🌐 Shell | 📅 2026-06-16 - Devcontainer setup for easy LaTeX usage without local installation ![foss]
 
-* [Vim](https://www.vim.org) [![Vim][awesome]](https://github.com/mhinz/vim-galore) ⭐ 18,017 | 🐛 13 | 🌐 Vim script | 📅 2023-12-22 ![foss]
-  * [vimtex](https://github.com/lervag/vimtex) ⭐ 6,393 | 🐛 2 | 🌐 TeX | 📅 2026-10-18 - Modern vim plugin for editing LaTeX files. Has a variety of features including live preview and forward search. ![foss]
+* [Vim](https://www.vim.org) [![Vim][awesome]](https://github.com/mhinz/vim-galore) ⭐ 18,019 | 🐛 13 | 🌐 Vim script | 📅 2023-12-22 ![foss]
+  * [vimtex](https://github.com/lervag/vimtex) ⭐ 6,395 | 🐛 2 | 🌐 TeX | 📅 2026-10-18 - Modern vim plugin for editing LaTeX files. Has a variety of features including live preview and forward search. ![foss]
   * [LaTeX Live Preview](https://github.com/xuhdev/vim-latex-live-preview) ⭐ 853 | 🐛 25 | 🌐 Vim Script | 📅 2025-11-03 - Instantly previews your LaTeX document. ![foss]
   * [Vim-LaTeX](http://vim-latex.sourceforge.net) ![foss]
 
-* [Emacs](https://www.gnu.org/software/emacs/)  [![Emacs][awesome]](https://github.com/emacs-tw/awesome-emacs) ⭐ 9,399 | 🐛 35 | 📅 2026-09-02 ![foss]
+* [Emacs](https://www.gnu.org/software/emacs/)  [![Emacs][awesome]](https://github.com/emacs-tw/awesome-emacs) ⭐ 9,400 | 🐛 35 | 📅 2026-09-02 ![foss]
   * [AucTeX](https://www.gnu.org/software/auctex/) - Emacs plugin for LaTeX that also shows a preview of equations and figures. ![foss]
   * [RefTeX](https://www.gnu.org/software/auctex/reftex) - Emacs plugin for LaTeX that adds support for labels, references, and citations. ![foss]
 
@@ -141,11 +141,11 @@ These editors are no one-trick ponies: sure, they edit LaTeX, but they can do a 
 
 Online editors that allow you to edit documents collaboratively.
 
-* [Overleaf](https://www.overleaf.com) - Online editor, also with a WYSIWYM editor and git support. Also available as [Overleaf Community Edition](https://github.com/overleaf/overleaf) ⭐ 18,250 | 🐛 174 | 🌐 JavaScript | 📅 2026-09-17 (self-hosted, AGPL licensed). ![foss]
-  * [olcli](https://github.com/aloth/olcli) ⭐ 215 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-15 - Command-line interface for Overleaf to sync, manage, and compile projects from the terminal. ![foss]
-* [WebLaTeX](https://github.com/sanjib-sen/weblatex) ⭐ 1,753 | 🐛 16 | 🌐 TeX | 📅 2024-05-23 - Web-based vscode with Git Integration + Copilot + Grammar & Spell Checker + Live Collaboration Support based on GitHub Codespace and Dev container.
+* [Overleaf](https://www.overleaf.com) - Online editor, also with a WYSIWYM editor and git support. Also available as [Overleaf Community Edition](https://github.com/overleaf/overleaf) ⭐ 18,253 | 🐛 174 | 🌐 JavaScript | 📅 2026-09-17 (self-hosted, AGPL licensed). ![foss]
+  * [olcli](https://github.com/aloth/olcli) ⭐ 217 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-15 - Command-line interface for Overleaf to sync, manage, and compile projects from the terminal. ![foss]
+* [WebLaTeX](https://github.com/sanjib-sen/weblatex) ⭐ 1,754 | 🐛 16 | 🌐 TeX | 📅 2024-05-23 - Web-based vscode with Git Integration + Copilot + Grammar & Spell Checker + Live Collaboration Support based on GitHub Codespace and Dev container.
 * [Modern LaTeX Editor](https://github.com/InMDev/Modern-LaTeX-Editor) ⭐ 41 | 🐛 13 | 🌐 JavaScript | 📅 2026-06-27 - Online editor, no-signup hybrid code editor + visual editor that mixes Notion/Google docs/Microsoft Word-like editing with raw LaTeX code blocks.
-* [SciTeX Cloud](https://github.com/ywatanabe1989/scitex-cloud) ⭐ 2 | 🐛 9 | 🌐 Python | 📅 2026-10-17 - Self-hostable online editor with AI assistant integration, figure/table/citation management, real-time collaboration, and an MCP server (29 tools). ![foss]
+* [SciTeX Cloud](https://github.com/ywatanabe1989/scitex-cloud) ⭐ 2 | 🐛 3 | 🌐 Python | 📅 2026-10-19 - Self-hostable online editor with AI assistant integration, figure/table/citation management, real-time collaboration, and an MCP server (29 tools). ![foss]
 * [List of popular online LaTeX editors](https://tex.stackexchange.com/questions/3/compiling-documents-online/1654#1654) - Community-maintained list of popular online LaTeX editor including equation editors.
 * [Authorea](https://www.authorea.com) - Online editor with built-in git support and bibliography tools.
 * [OpenAI Prism](https://prism.openai.com) - Online editor with realtime collaboration features.
@@ -162,8 +162,8 @@ Online editors that allow you to edit documents collaboratively.
 
 Language servers bring IDE features (completion, diagnostics, navigation, and more) to any editor that speaks the [Language Server Protocol](https://microsoft.github.io/language-server-protocol/), such as Neovim, VS Code, Emacs, and Helix.
 
-* [TexLab](https://github.com/latex-lsp/texlab) ⭐ 2,028 | 🐛 85 | 🌐 Rust | 📅 2026-10-14 - Language server for LaTeX and BibTeX with completion, definitions, references, rename, formatting, and forward search. ![foss]
-* [Badness](https://github.com/jolars/badness) ⭐ 92 | 🐛 1 | 🌐 Rust | 📅 2026-10-16 - Language server, formatter, and linter for LaTeX built on a lossless, error-tolerant syntax tree in the style of rust-analyzer. ![foss]
+* [TexLab](https://github.com/latex-lsp/texlab) ⭐ 2,029 | 🐛 93 | 🌐 Rust | 📅 2026-10-19 - Language server for LaTeX and BibTeX with completion, definitions, references, rename, formatting, and forward search. ![foss]
+* [Badness](https://github.com/jolars/badness) ⭐ 93 | 🐛 0 | 🌐 Rust | 📅 2026-10-18 - Language server, formatter, and linter for LaTeX built on a lossless, error-tolerant syntax tree in the style of rust-analyzer. ![foss]
 
 ## Bibliography tools
 
@@ -184,18 +184,18 @@ Language servers bring IDE features (completion, diagnostics, navigation, and mo
 
 Compiling LaTeX documents can be tedious, build tools help you to manage the compilation process.
 
-* [Arara](https://www.ctan.org/pkg/arara) ([GitHub repo](https://github.com/islandoftex/arara) ⭐ 417 | 🐛 11 | 🌐 Kotlin | 📅 2026-10-16) - Simple tool that allows you to specify which tools to call inside your document and it can be extended quite easily. ![foss]
+* [Arara](https://www.ctan.org/pkg/arara) ([GitHub repo](https://github.com/islandoftex/arara) ⭐ 418 | 🐛 11 | 🌐 Kotlin | 📅 2026-10-19) - Simple tool that allows you to specify which tools to call inside your document and it can be extended quite easily. ![foss]
 * [latexmk](https://www.ctan.org/pkg/latexmk) - Build tool that is the commonly used by many LaTeX editors (LaTeXing, TeXShop, etc.) to build your LaTeX files. ![foss]
 
 ### GitHub Actions
 
 * [xu-cheng/latex-action](https://github.com/xu-cheng/latex-action) ⭐ 1,419 | 🐛 1 | 🌐 Shell | 📅 2026-07-30 - GitHub Action to compile LaTeX documents
-* [dante-ev/latex-action](https://github.com/dante-ev/latex-action) ⭐ 195 | 🐛 5 | 🌐 TeX | 📅 2026-10-16 - DANTE e.V.'s GitHub action to compile LaTeX documents. Offers a full TeXLive and pre-installed perl and python.
+* [dante-ev/latex-action](https://github.com/dante-ev/latex-action) ⭐ 195 | 🐛 5 | 🌐 TeX | 📅 2026-10-18 - DANTE e.V.'s GitHub action to compile LaTeX documents. Offers a full TeXLive and pre-installed perl and python.
 
 ## Misc. Tools
 
 * [CaTeX](https://github.com/Alexis-benoist/CaTeX) ⭐ 10 | 🐛 3 | 🌐 Python | 📅 2022-12-26 - Concatenates LaTeX documents with attention for properly merging the preamble.
-* [SciTeX Writer](https://github.com/ywatanabe1989/scitex-writer) ⭐ 3 | 🐛 1 | 🌐 Python | 📅 2026-10-18 - Manuscript compilation system with templates for manuscripts, revisions, and supplementary materials, plus figure, table, and citation handling, and an MCP server (38 tools). ![foss]
+* [SciTeX Writer](https://github.com/ywatanabe1989/scitex-writer) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2026-10-19 - Manuscript compilation system with templates for manuscripts, revisions, and supplementary materials, plus figure, table, and citation handling, and an MCP server (38 tools). ![foss]
 * [Pandoc](https://pandoc.org) - This program converts almost any document format (LaTeX, DOC, markdown, etc.) to almost any other format. A great tool to aid workflows where multiple formats are used. ![foss]
 
 ### Formatters
@@ -203,14 +203,14 @@ Compiling LaTeX documents can be tedious, build tools help you to manage the com
 Formatters keep the layout of your LaTeX source consistent, so that you can focus on the content.
 
 * [tex-fmt](https://github.com/WGUNDERWOOD/tex-fmt) ⭐ 881 | 🐛 44 | 🌐 Rust | 📅 2026-08-22 - Extremely fast LaTeX formatter written in Rust, with sensible defaults and minimal configuration. ![foss]
-* [Badness](https://github.com/jolars/badness) ⭐ 92 | 🐛 1 | 🌐 Rust | 📅 2026-10-16 - Deterministic, rule-based, and idempotent LaTeX formatter written in Rust (also a linter and language server). ![foss]
+* [Badness](https://github.com/jolars/badness) ⭐ 93 | 🐛 0 | 🌐 Rust | 📅 2026-10-18 - Deterministic, rule-based, and idempotent LaTeX formatter written in Rust (also a linter and language server). ![foss]
 * [latexindent](https://ctan.org/pkg/latexindent) - Perl script that indents and reformats LaTeX documents, highly configurable through YAML settings and shipped with the major TeX distributions. ![foss]
 
 ### Quality Check Tools
 
-* [TeXtidote](https://github.com/sylvainhalle/textidote) ⭐ 1,057 | 🐛 39 | 🌐 Java | 📅 2026-09-09 - A cross-platform (Java) spelling, grammar and style checker for LaTeX documents. ![windows] ![linux] ![mac] ![foss]
+* [TeXtidote](https://github.com/sylvainhalle/textidote) ⭐ 1,058 | 🐛 39 | 🌐 Java | 📅 2026-09-09 - A cross-platform (Java) spelling, grammar and style checker for LaTeX documents. ![windows] ![linux] ![mac] ![foss]
 * [blacktex](https://github.com/nschloe/blacktex) ⭐ 159 | 🐛 1 | 📅 2024-01-22 - Command-line tool that replaces commonly occurring LaTeX anti-patterns and cleans up your files. ![windows] ![linux] ![mac] ![foss]
-* [Badness](https://github.com/jolars/badness) ⭐ 92 | 🐛 1 | 🌐 Rust | 📅 2026-10-16 - Error-tolerant LaTeX linter with rich diagnostics and source snippets (also a formatter and language server). ![foss]
+* [Badness](https://github.com/jolars/badness) ⭐ 93 | 🐛 0 | 🌐 Rust | 📅 2026-10-18 - Error-tolerant LaTeX linter with rich diagnostics and source snippets (also a formatter and language server). ![foss]
 * [latex2arxiv](https://github.com/YuZh98/latex2arxiv) ⭐ 5 | 🐛 4 | 🌐 Python | 📅 2026-10-17 - CLI tool that prepares a LaTeX project for arXiv submission: prunes unreachable files, strips draft markup, validates the bibliography, and catches desk-rejection errors before upload. Also available as a GitHub Action and MCP server for AI agents. ![windows] ![linux] ![mac] ![foss]
 * [ChkTeX](https://www.nongnu.org/chktex/) - Linter / code checker for LaTeX documents. ![foss]
 
@@ -285,7 +285,7 @@ Typically, it is easier to get to work with `pdflatex` than PSTricks is.
 
 ## Templates
 
-* [Ultimate Beamer Theme List](https://github.com/martinbjeldbak/ultimate-beamer-theme-list) ⭐ 1,823 | 🐛 1 | 📅 2026-10-13 - Links to various beamer themes along with PDF previews.
+* [Ultimate Beamer Theme List](https://github.com/martinbjeldbak/ultimate-beamer-theme-list) ⭐ 1,824 | 🐛 2 | 📅 2026-10-19 - Links to various beamer themes along with PDF previews.
 * [TeXtured](https://github.com/jdujava/TeXtured) ⭐ 279 | 🐛 9 | 🌐 TeX | 📅 2026-09-10 - A typographically elegant, clean, and structured LaTeX template (primarily intended for theses).
 * [LaTeX Beamer Theme Overview](https://github.com/UweZiegenhagen/LaTeX-Beamer-Theme-Overview/blob/main/OVERVIEW.md) ⭐ 56 | 🐛 1 | 🌐 TeX | 📅 2025-09-05 - Visual overview of beamer themes included in TeXLive
 * [LaTeX templates](https://www.latextemplates.com) - Collection of templates for papers, posters, resumés, theses, books, presentations, … for LaTeX.
@@ -383,4 +383,4 @@ All trademarks are property of their respective owners.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._

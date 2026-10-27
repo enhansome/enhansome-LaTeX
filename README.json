@@ -68,16 +68,16 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "A live collaborative LaTeX, Typst & Markdown editor with shared cursors, comments, cloud sync, and AI agents like Claude Code & Codex that help you write your research faster. Self-host the server, import projects from your online LaTeX account, cite from Zotero and keep every version in Git. Free and open source for Mac, Windows & Linux.",
+                "description": "LaTeX and Typst editor for research papers, with live collaboration and AI agents. Free for Mac, Windows and Linux.",
                 "homepage": "https://oleafly.com",
                 "id": 1289704847,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-26T16:32:00Z",
+                "last_commit": "2026-10-27T15:25:58Z",
                 "open_issues": 26,
                 "owner": "Oleafly",
                 "repo": "Oleafly",
-                "stars": 281,
+                "stars": 320,
                 "topics": [
                   "academic-writing",
                   "ai",
@@ -128,10 +128,10 @@
                     "language": "TypeScript",
                     "license": "MIT",
                     "last_commit": "2026-10-22T10:07:05Z",
-                    "open_issues": 1,
+                    "open_issues": 3,
                     "owner": "James-Yu",
                     "repo": "LaTeX-Workshop",
-                    "stars": 12389,
+                    "stars": 12390,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:21:08.759Z"
@@ -172,10 +172,10 @@
                 "language": "JavaScript",
                 "license": "CC0-1.0",
                 "last_commit": "2026-06-21T09:36:55Z",
-                "open_issues": 84,
+                "open_issues": 86,
                 "owner": "viatsko",
                 "repo": "awesome-vscode",
-                "stars": 29170,
+                "stars": 29171,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -213,7 +213,7 @@
                     "open_issues": 4,
                     "owner": "lervag",
                     "repo": "vimtex",
-                    "stars": 6402,
+                    "stars": 6403,
                     "topics": [
                       "filetype-plugin",
                       "latex",
@@ -259,7 +259,7 @@
                 "open_issues": 13,
                 "owner": "mhinz",
                 "repo": "vim-galore",
-                "stars": 18029,
+                "stars": 18033,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -505,7 +505,7 @@
                 "open_issues": 175,
                 "owner": "overleaf",
                 "repo": "overleaf",
-                "stars": 18280,
+                "stars": 18283,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:21:08.759Z"
@@ -526,7 +526,7 @@
                 "open_issues": 16,
                 "owner": "sanjib-sen",
                 "repo": "WebLaTex",
-                "stars": 1759,
+                "stars": 1760,
                 "topics": [
                   "docker",
                   "editor",
@@ -589,7 +589,7 @@
                 "id": 1010976100,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-25T19:20:04Z",
+                "last_commit": "2026-10-26T19:20:05Z",
                 "open_issues": 4,
                 "owner": "scitex-ai",
                 "repo": "scitex-hub",
@@ -643,7 +643,7 @@
             "open_issues": 94,
             "owner": "latex-lsp",
             "repo": "texlab",
-            "stars": 2031,
+            "stars": 2033,
             "topics": [
               "language-server",
               "latex"
@@ -694,7 +694,7 @@
             "open_issues": 84,
             "owner": "papis",
             "repo": "papis",
-            "stars": 1794,
+            "stars": 1796,
             "topics": [
               "arxiv",
               "biblatex",
@@ -884,7 +884,7 @@
             "id": 3951404,
             "language": "Kotlin",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-26T16:27:08Z",
+            "last_commit": "2026-10-27T12:48:07Z",
             "open_issues": 11,
             "owner": "islandoftex",
             "repo": "arara",
@@ -1043,7 +1043,7 @@
                 "open_issues": 44,
                 "owner": "WGUNDERWOOD",
                 "repo": "tex-fmt",
-                "stars": 884,
+                "stars": 885,
                 "topics": [
                   "formatter",
                   "latex",
@@ -1096,7 +1096,7 @@
                 "open_issues": 38,
                 "owner": "sylvainhalle",
                 "repo": "textidote",
-                "stars": 1058,
+                "stars": 1057,
                 "topics": [
                   "grammar-checker",
                   "languagetool",
@@ -1268,7 +1268,7 @@
                     "open_issues": 136,
                     "owner": "nschloe",
                     "repo": "tikzplotlib",
-                    "stars": 2587,
+                    "stars": 2588,
                     "topics": [
                       "latex",
                       "matplotlib",
@@ -1397,7 +1397,7 @@
             "open_issues": 2,
             "owner": "martinbjeldbak",
             "repo": "ultimate-beamer-theme-list",
-            "stars": 1823,
+            "stars": 1824,
             "topics": [
               "beamer",
               "beamer-template",
@@ -1569,7 +1569,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T17:19:33.503Z",
+    "last_updated": "2026-10-27T16:33:30.440Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of LaTeX awesomeness",

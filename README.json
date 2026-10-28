@@ -39,7 +39,7 @@
             "id": 212058154,
             "language": "Dockerfile",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-23T12:50:43Z",
+            "last_commit": "2026-10-28T08:13:12Z",
             "open_issues": 2,
             "owner": "reitzig",
             "repo": "texlive-docker",
@@ -68,24 +68,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "LaTeX and Typst editor for research papers, with live collaboration and AI agents. Free for Mac, Windows and Linux.",
+                "description": "LaTeX and Typst editor with live collaboration and AI agents. Open-source Overleaf alternative for Mac, Windows and Linux.",
                 "homepage": "https://oleafly.com",
                 "id": 1289704847,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-27T15:25:58Z",
-                "open_issues": 26,
+                "last_commit": "2026-10-28T17:02:58Z",
+                "open_issues": 24,
                 "owner": "Oleafly",
                 "repo": "Oleafly",
-                "stars": 320,
+                "stars": 432,
                 "topics": [
                   "academic-writing",
                   "ai",
-                  "ai-assistant",
-                  "cross-platform",
                   "desktop-app",
                   "latex",
                   "latex-editor",
+                  "latex-ide",
                   "latex-template",
                   "latex-tools",
                   "local-first",
@@ -95,10 +94,11 @@
                   "overleaf-alternative",
                   "research",
                   "research-paper",
-                  "resume",
                   "scientific-writing",
+                  "synctex",
                   "typst",
-                  "typst-editor"
+                  "typst-editor",
+                  "typst-ide"
                 ]
               },
               "first_seen": "2026-08-28T21:21:08.759Z"
@@ -127,8 +127,8 @@
                     "id": 77369463,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-22T10:07:05Z",
-                    "open_issues": 3,
+                    "last_commit": "2026-10-28T04:22:49Z",
+                    "open_issues": 4,
                     "owner": "James-Yu",
                     "repo": "LaTeX-Workshop",
                     "stars": 12390,
@@ -152,7 +152,7 @@
                     "open_issues": 1,
                     "owner": "a-nau",
                     "repo": "latex-devcontainer",
-                    "stars": 30,
+                    "stars": 31,
                     "topics": [
                       "docker",
                       "latex",
@@ -175,7 +175,7 @@
                 "open_issues": 86,
                 "owner": "viatsko",
                 "repo": "awesome-vscode",
-                "stars": 29171,
+                "stars": 29170,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -210,10 +210,10 @@
                     "language": "TeX",
                     "license": "MIT",
                     "last_commit": "2026-10-23T21:09:59Z",
-                    "open_issues": 4,
+                    "open_issues": 5,
                     "owner": "lervag",
                     "repo": "vimtex",
-                    "stars": 6403,
+                    "stars": 6404,
                     "topics": [
                       "filetype-plugin",
                       "latex",
@@ -292,7 +292,7 @@
                 "open_issues": 35,
                 "owner": "emacs-tw",
                 "repo": "awesome-emacs",
-                "stars": 9403,
+                "stars": 9406,
                 "topics": [
                   "awesome-list",
                   "emacs"
@@ -467,7 +467,7 @@
                     "open_issues": 0,
                     "owner": "aloth",
                     "repo": "olcli",
-                    "stars": 227,
+                    "stars": 229,
                     "topics": [
                       "academic-writing",
                       "agentskills",
@@ -505,7 +505,7 @@
                 "open_issues": 175,
                 "owner": "overleaf",
                 "repo": "overleaf",
-                "stars": 18283,
+                "stars": 18289,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:21:08.759Z"
@@ -589,7 +589,7 @@
                 "id": 1010976100,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-26T19:20:05Z",
+                "last_commit": "2026-10-27T19:20:19Z",
                 "open_issues": 4,
                 "owner": "scitex-ai",
                 "repo": "scitex-hub",
@@ -667,7 +667,7 @@
             "open_issues": 1,
             "owner": "jolars",
             "repo": "badness",
-            "stars": 99,
+            "stars": 100,
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:08.759Z"
@@ -884,11 +884,11 @@
             "id": 3951404,
             "language": "Kotlin",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-27T12:48:07Z",
+            "last_commit": "2026-10-28T16:14:17Z",
             "open_issues": 11,
             "owner": "islandoftex",
             "repo": "arara",
-            "stars": 418,
+            "stars": 419,
             "topics": [
               "automation",
               "java",
@@ -916,7 +916,7 @@
                 "open_issues": 1,
                 "owner": "xu-cheng",
                 "repo": "latex-action",
-                "stars": 1422,
+                "stars": 1423,
                 "topics": [
                   "github-actions",
                   "latex"
@@ -1043,7 +1043,7 @@
                 "open_issues": 44,
                 "owner": "WGUNDERWOOD",
                 "repo": "tex-fmt",
-                "stars": 885,
+                "stars": 886,
                 "topics": [
                   "formatter",
                   "latex",
@@ -1068,7 +1068,7 @@
                 "open_issues": 1,
                 "owner": "jolars",
                 "repo": "badness",
-                "stars": 99,
+                "stars": 100,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:21:08.759Z"
@@ -1148,7 +1148,7 @@
                 "open_issues": 1,
                 "owner": "jolars",
                 "repo": "badness",
-                "stars": 99,
+                "stars": 100,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:21:08.759Z"
@@ -1295,7 +1295,7 @@
                     "open_issues": 264,
                     "owner": "matlab2tikz",
                     "repo": "matlab2tikz",
-                    "stars": 1764,
+                    "stars": 1763,
                     "topics": [
                       "latex",
                       "matlab",
@@ -1429,7 +1429,7 @@
             "open_issues": 9,
             "owner": "jdujava",
             "repo": "TeXtured",
-            "stars": 279,
+            "stars": 278,
             "topics": [
               "design",
               "latex",
@@ -1550,7 +1550,7 @@
             "open_issues": 3,
             "owner": "luong-komorebi",
             "repo": "Begin-Latex-in-minutes",
-            "stars": 3284,
+            "stars": 3283,
             "topics": [
               "basic",
               "beginners",
@@ -1569,7 +1569,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T16:33:30.440Z",
+    "last_updated": "2026-10-28T17:08:41.052Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of LaTeX awesomeness",

@@ -73,11 +73,11 @@
                 "id": 1289704847,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-07T13:40:13Z",
-                "open_issues": 19,
+                "last_commit": "2026-11-08T15:27:13Z",
+                "open_issues": 25,
                 "owner": "Oleafly",
                 "repo": "Oleafly",
-                "stars": 1102,
+                "stars": 1120,
                 "topics": [
                   "academic-writing",
                   "ai",
@@ -175,7 +175,7 @@
                 "open_issues": 91,
                 "owner": "viatsko",
                 "repo": "awesome-vscode",
-                "stars": 29197,
+                "stars": 29205,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -259,7 +259,7 @@
                 "open_issues": 13,
                 "owner": "mhinz",
                 "repo": "vim-galore",
-                "stars": 18048,
+                "stars": 18049,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -467,7 +467,7 @@
                     "open_issues": 0,
                     "owner": "aloth",
                     "repo": "olcli",
-                    "stars": 247,
+                    "stars": 248,
                     "topics": [
                       "academic-writing",
                       "agentskills",
@@ -505,7 +505,7 @@
                 "open_issues": 177,
                 "owner": "overleaf",
                 "repo": "overleaf",
-                "stars": 18310,
+                "stars": 18313,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:21:08.759Z"
@@ -526,7 +526,7 @@
                 "open_issues": 16,
                 "owner": "sanjib-sen",
                 "repo": "WebLaTex",
-                "stars": 1763,
+                "stars": 1765,
                 "topics": [
                   "docker",
                   "editor",
@@ -589,7 +589,7 @@
                 "id": 1010976100,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-07T13:27:47Z",
+                "last_commit": "2026-11-08T05:19:41Z",
                 "open_issues": 14,
                 "owner": "scitex-ai",
                 "repo": "scitex-hub",
@@ -666,8 +666,8 @@
             "id": 1262325065,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-11-06T22:29:16Z",
-            "open_issues": 3,
+            "last_commit": "2026-11-08T15:32:07Z",
+            "open_issues": 1,
             "owner": "jolars",
             "repo": "badness",
             "stars": 108,
@@ -1069,8 +1069,8 @@
                 "id": 1262325065,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-11-06T22:29:16Z",
-                "open_issues": 3,
+                "last_commit": "2026-11-08T15:32:07Z",
+                "open_issues": 1,
                 "owner": "jolars",
                 "repo": "badness",
                 "stars": 108,
@@ -1101,7 +1101,7 @@
                 "open_issues": 38,
                 "owner": "sylvainhalle",
                 "repo": "textidote",
-                "stars": 1060,
+                "stars": 1061,
                 "topics": [
                   "grammar-checker",
                   "languagetool",
@@ -1149,8 +1149,8 @@
                 "id": 1262325065,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-11-06T22:29:16Z",
-                "open_issues": 3,
+                "last_commit": "2026-11-08T15:32:07Z",
+                "open_issues": 1,
                 "owner": "jolars",
                 "repo": "badness",
                 "stars": 108,
@@ -1402,7 +1402,7 @@
             "open_issues": 1,
             "owner": "martinbjeldbak",
             "repo": "ultimate-beamer-theme-list",
-            "stars": 1825,
+            "stars": 1826,
             "topics": [
               "beamer",
               "beamer-template",
@@ -1434,7 +1434,7 @@
             "open_issues": 9,
             "owner": "jdujava",
             "repo": "TeXtured",
-            "stars": 277,
+            "stars": 278,
             "topics": [
               "design",
               "latex",
@@ -1574,7 +1574,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T16:49:10.770Z",
+    "last_updated": "2026-11-08T17:01:11.629Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of LaTeX awesomeness",
@@ -1586,7 +1586,7 @@
       "open_issues": 26,
       "owner": "egeerardyn",
       "repo": "awesome-LaTeX",
-      "stars": 1678,
+      "stars": 1679,
       "topics": []
     },
     "original_repository_sha": "649d5293a16afcb0d91cd98cdc68da1248784f93",

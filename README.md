@@ -97,7 +97,7 @@ A complete list of LaTeX editors is collected at [tex.stackexchange.com](https:/
 
 Some of the most awesome editor for LaTeX do just that: edit LaTeX.
 
-* [Oleafly](https://github.com/Oleafly/Oleafly) ⭐ 1,145 | 🐛 28 | 🌐 TypeScript | 📅 2026-11-09 - Free, open-source desktop editor for LaTeX, Typst, and Markdown with live PDF preview, SyncTeX, bundled engines, and Git-native projects. ![foss]
+* [Oleafly](https://github.com/Oleafly/Oleafly) ⭐ 1,154 | 🐛 29 | 🌐 TypeScript | 📅 2026-11-10 - Free, open-source desktop editor for LaTeX, Typst, and Markdown with live PDF preview, SyncTeX, bundled engines, and Git-native projects. ![foss]
 * [Kile](https://kile.sourceforge.io) - Great LaTeX editor originally from the Linux/KDE community. It runs fine on Windows and macOS as well. ![foss]
 * [TeXMaker](https://www.xm1math.net/texmaker/) - Pretty good alternative to Kile.
 * [TeXStudio](https://www.texstudio.org) - Cross-platform LaTeX editor that stems from TeXMaker.
@@ -114,16 +114,16 @@ Some of the most awesome editor for LaTeX do just that: edit LaTeX.
 
 These editors are no one-trick ponies: sure, they edit LaTeX, but they can do a lot more!
 
-* [VS Code](https://code.visualstudio.com/) [![VS Code][awesome]](https://github.com/viatsko/awesome-vscode) ⭐ 29,210 | 🐛 90 | 🌐 JavaScript | 📅 2026-06-21 ![foss]
-  * [LaTeX Workshop](https://github.com/James-Yu/LaTeX-Workshop) ⭐ 12,405 | 🐛 3 | 🌐 TypeScript | 📅 2026-11-03 - LaTeX extension for Visual Studio Code ![foss]
+* [VS Code](https://code.visualstudio.com/) [![VS Code][awesome]](https://github.com/viatsko/awesome-vscode) ⭐ 29,215 | 🐛 91 | 🌐 JavaScript | 📅 2026-06-21 ![foss]
+  * [LaTeX Workshop](https://github.com/James-Yu/LaTeX-Workshop) ⭐ 12,407 | 🐛 4 | 🌐 TypeScript | 📅 2026-11-03 - LaTeX extension for Visual Studio Code ![foss]
   * [a-nau/latex-devcontainer](https://github.com/a-nau/latex-devcontainer) ⭐ 31 | 🐛 2 | 🌐 Shell | 📅 2026-06-16 - Devcontainer setup for easy LaTeX usage without local installation ![foss]
 
-* [Vim](https://www.vim.org) [![Vim][awesome]](https://github.com/mhinz/vim-galore) ⭐ 18,049 | 🐛 13 | 🌐 Vim script | 📅 2023-12-22 ![foss]
+* [Vim](https://www.vim.org) [![Vim][awesome]](https://github.com/mhinz/vim-galore) ⭐ 18,052 | 🐛 13 | 🌐 Vim script | 📅 2023-12-22 ![foss]
   * [vimtex](https://github.com/lervag/vimtex) ⭐ 6,411 | 🐛 2 | 🌐 TeX | 📅 2026-11-06 - Modern vim plugin for editing LaTeX files. Has a variety of features including live preview and forward search. ![foss]
   * [LaTeX Live Preview](https://github.com/xuhdev/vim-latex-live-preview) ⭐ 852 | 🐛 25 | 🌐 Vim Script | 📅 2025-11-03 - Instantly previews your LaTeX document. ![foss]
   * [Vim-LaTeX](http://vim-latex.sourceforge.net) ![foss]
 
-* [Emacs](https://www.gnu.org/software/emacs/)  [![Emacs][awesome]](https://github.com/emacs-tw/awesome-emacs) ⭐ 9,413 | 🐛 35 | 📅 2026-09-02 ![foss]
+* [Emacs](https://www.gnu.org/software/emacs/)  [![Emacs][awesome]](https://github.com/emacs-tw/awesome-emacs) ⭐ 9,416 | 🐛 35 | 📅 2026-09-02 ![foss]
   * [AucTeX](https://www.gnu.org/software/auctex/) - Emacs plugin for LaTeX that also shows a preview of equations and figures. ![foss]
   * [RefTeX](https://www.gnu.org/software/auctex/reftex) - Emacs plugin for LaTeX that adds support for labels, references, and citations. ![foss]
 
@@ -141,9 +141,9 @@ These editors are no one-trick ponies: sure, they edit LaTeX, but they can do a 
 
 Online editors that allow you to edit documents collaboratively.
 
-* [Overleaf](https://www.overleaf.com) - Online editor, also with a WYSIWYM editor and git support. Also available as [Overleaf Community Edition](https://github.com/overleaf/overleaf) ⭐ 18,321 | 🐛 177 | 🌐 JavaScript | 📅 2026-09-17 (self-hosted, AGPL licensed). ![foss]
-  * [olcli](https://github.com/aloth/olcli) ⭐ 250 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-07 - Command-line interface for Overleaf to sync, manage, and compile projects from the terminal. ![foss]
-* [WebLaTeX](https://github.com/sanjib-sen/weblatex) ⭐ 1,766 | 🐛 16 | 🌐 TeX | 📅 2024-05-23 - Web-based vscode with Git Integration + Copilot + Grammar & Spell Checker + Live Collaboration Support based on GitHub Codespace and Dev container.
+* [Overleaf](https://www.overleaf.com) - Online editor, also with a WYSIWYM editor and git support. Also available as [Overleaf Community Edition](https://github.com/overleaf/overleaf) ⭐ 18,326 | 🐛 178 | 🌐 JavaScript | 📅 2026-09-17 (self-hosted, AGPL licensed). ![foss]
+  * [olcli](https://github.com/aloth/olcli) ⭐ 250 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-07 - Command-line interface for Overleaf to sync, manage, and compile projects from the terminal. ![foss]
+* [WebLaTeX](https://github.com/sanjib-sen/weblatex) ⭐ 1,767 | 🐛 16 | 🌐 TeX | 📅 2024-05-23 - Web-based vscode with Git Integration + Copilot + Grammar & Spell Checker + Live Collaboration Support based on GitHub Codespace and Dev container.
 * [Modern LaTeX Editor](https://github.com/InMDev/Modern-LaTeX-Editor) ⭐ 41 | 🐛 13 | 🌐 JavaScript | 📅 2026-06-27 - Online editor, no-signup hybrid code editor + visual editor that mixes Notion/Google docs/Microsoft Word-like editing with raw LaTeX code blocks.
 * [SciTeX Cloud](https://github.com/ywatanabe1989/scitex-cloud) ⭐ 2 | 🐛 14 | 🌐 Python | 📅 2026-11-09 - Self-hostable online editor with AI assistant integration, figure/table/citation management, real-time collaboration, and an MCP server (29 tools). ![foss]
 * [List of popular online LaTeX editors](https://tex.stackexchange.com/questions/3/compiling-documents-online/1654#1654) - Community-maintained list of popular online LaTeX editor including equation editors.
@@ -167,11 +167,11 @@ Language servers bring IDE features (completion, diagnostics, navigation, and mo
 
 ## Bibliography tools
 
-* [Papis](https://github.com/papis/papis) ⭐ 1,801 | 🐛 85 | 🌐 HTML | 📅 2026-11-02 - Extremely customizable,
+* [Papis](https://github.com/papis/papis) ⭐ 1,803 | 🐛 86 | 🌐 HTML | 📅 2026-11-02 - Extremely customizable,
   powerful and simple cross-platform (Python) library manager. It has a very
   complete Command-Line-Interface, several GUIs and scripting capability.
   ![linux] ![mac] ![foss]
-* [betterbib](https://github.com/nschloe/betterbib) ⭐ 841 | 🐛 3 | 📅 2025-04-08 - Command-line utility for improving your BibTeX files. Fetches information from online sources. ![mac] ![windows] ![linux] ![foss]
+* [betterbib](https://github.com/nschloe/betterbib) ⭐ 842 | 🐛 3 | 📅 2026-11-10 - Command-line utility for improving your BibTeX files. Fetches information from online sources. ![mac] ![windows] ![linux] ![foss]
 * [OneCite](https://github.com/HzaCode/OneCite) ⭐ 68 | 🐛 1 | 🌐 Python | 📅 2026-08-06 - Universal citation management and academic reference toolkit that converts messy references into perfectly formatted citations. Supports DOI, arXiv ID, titles, and more, with output in BibTeX, APA, and MLA formats. ![mac] ![windows] ![linux] ![foss]
 * [CrossRef Local](https://github.com/ywatanabe1989/crossref-local) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2026-10-17 - Local CrossRef database (167M papers) with full-text search, impact factor data, Python API for bibliography enrichment, and an MCP server (15 tools). ![foss]
 * [OpenAlex Local](https://github.com/ywatanabe1989/openalex-local) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2026-10-17 - Local OpenAlex database (284M scholarly works) with abstracts and semantic search for literature discovery, and an MCP server. ![foss]
@@ -184,7 +184,7 @@ Language servers bring IDE features (completion, diagnostics, navigation, and mo
 
 Compiling LaTeX documents can be tedious, build tools help you to manage the compilation process.
 
-* [Arara](https://www.ctan.org/pkg/arara) ([GitHub repo](https://github.com/islandoftex/arara) ⭐ 420 | 🐛 11 | 🌐 Kotlin | 📅 2026-10-29) - Simple tool that allows you to specify which tools to call inside your document and it can be extended quite easily. ![foss]
+* [Arara](https://www.ctan.org/pkg/arara) ([GitHub repo](https://github.com/islandoftex/arara) ⭐ 421 | 🐛 11 | 🌐 Kotlin | 📅 2026-10-29) - Simple tool that allows you to specify which tools to call inside your document and it can be extended quite easily. ![foss]
 * [latexmk](https://www.ctan.org/pkg/latexmk) - Build tool that is the commonly used by many LaTeX editors (LaTeXing, TeXShop, etc.) to build your LaTeX files. ![foss]
 
 ### GitHub Actions
@@ -202,7 +202,7 @@ Compiling LaTeX documents can be tedious, build tools help you to manage the com
 
 Formatters keep the layout of your LaTeX source consistent, so that you can focus on the content.
 
-* [tex-fmt](https://github.com/WGUNDERWOOD/tex-fmt) ⭐ 895 | 🐛 45 | 🌐 Rust | 📅 2026-08-22 - Extremely fast LaTeX formatter written in Rust, with sensible defaults and minimal configuration. ![foss]
+* [tex-fmt](https://github.com/WGUNDERWOOD/tex-fmt) ⭐ 896 | 🐛 45 | 🌐 Rust | 📅 2026-08-22 - Extremely fast LaTeX formatter written in Rust, with sensible defaults and minimal configuration. ![foss]
 * [Badness](https://github.com/jolars/badness) ⭐ 108 | 🐛 0 | 🌐 Rust | 📅 2026-11-08 - Deterministic, rule-based, and idempotent LaTeX formatter written in Rust (also a linter and language server). ![foss]
 * [latexindent](https://ctan.org/pkg/latexindent) - Perl script that indents and reformats LaTeX documents, highly configurable through YAML settings and shipped with the major TeX distributions. ![foss]
 
@@ -383,4 +383,4 @@ All trademarks are property of their respective owners.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._

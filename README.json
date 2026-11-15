@@ -73,11 +73,11 @@
                 "id": 1289704847,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-14T16:41:55Z",
-                "open_issues": 25,
+                "last_commit": "2026-11-15T17:18:18Z",
+                "open_issues": 29,
                 "owner": "Oleafly",
                 "repo": "Oleafly",
-                "stars": 1200,
+                "stars": 1210,
                 "topics": [
                   "academic-writing",
                   "ai",
@@ -131,7 +131,7 @@
                     "open_issues": 4,
                     "owner": "James-Yu",
                     "repo": "LaTeX-Workshop",
-                    "stars": 12408,
+                    "stars": 12411,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:21:08.759Z"
@@ -175,7 +175,7 @@
                 "open_issues": 91,
                 "owner": "viatsko",
                 "repo": "awesome-vscode",
-                "stars": 29230,
+                "stars": 29232,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -259,7 +259,7 @@
                 "open_issues": 14,
                 "owner": "mhinz",
                 "repo": "vim-galore",
-                "stars": 18055,
+                "stars": 18057,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -292,7 +292,7 @@
                 "open_issues": 37,
                 "owner": "emacs-tw",
                 "repo": "awesome-emacs",
-                "stars": 9419,
+                "stars": 9420,
                 "topics": [
                   "awesome-list",
                   "emacs"
@@ -420,7 +420,7 @@
                     "language": "Kotlin",
                     "license": "MIT",
                     "last_commit": "2026-11-01T13:12:12Z",
-                    "open_issues": 6,
+                    "open_issues": 7,
                     "owner": "Hannah-Sten",
                     "repo": "TeXiFy-IDEA",
                     "stars": 991,
@@ -467,7 +467,7 @@
                     "open_issues": 6,
                     "owner": "aloth",
                     "repo": "olcli",
-                    "stars": 256,
+                    "stars": 259,
                     "topics": [
                       "academic-writing",
                       "agentskills",
@@ -505,7 +505,7 @@
                 "open_issues": 178,
                 "owner": "overleaf",
                 "repo": "overleaf",
-                "stars": 18339,
+                "stars": 18343,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:21:08.759Z"
@@ -589,7 +589,7 @@
                 "id": 1010976100,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-13T19:20:52Z",
+                "last_commit": "2026-11-14T19:20:40Z",
                 "open_issues": 14,
                 "owner": "scitex-ai",
                 "repo": "scitex-hub",
@@ -646,7 +646,7 @@
             "open_issues": 81,
             "owner": "latex-lsp",
             "repo": "texlab",
-            "stars": 2037,
+            "stars": 2038,
             "topics": [
               "language-server",
               "latex"
@@ -666,8 +666,8 @@
             "id": 1262325065,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-11-14T14:58:28Z",
-            "open_issues": 1,
+            "last_commit": "2026-11-15T14:53:34Z",
+            "open_issues": 3,
             "owner": "jolars",
             "repo": "badness",
             "stars": 110,
@@ -915,11 +915,11 @@
                 "id": 203533074,
                 "language": "Shell",
                 "license": "MIT",
-                "last_commit": "2026-07-30T19:34:46Z",
+                "last_commit": "2026-11-15T02:51:16Z",
                 "open_issues": 1,
                 "owner": "xu-cheng",
                 "repo": "latex-action",
-                "stars": 1429,
+                "stars": 1430,
                 "topics": [
                   "github-actions",
                   "latex"
@@ -1048,7 +1048,7 @@
                 "open_issues": 45,
                 "owner": "WGUNDERWOOD",
                 "repo": "tex-fmt",
-                "stars": 894,
+                "stars": 895,
                 "topics": [
                   "formatter",
                   "latex",
@@ -1069,8 +1069,8 @@
                 "id": 1262325065,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-11-14T14:58:28Z",
-                "open_issues": 1,
+                "last_commit": "2026-11-15T14:53:34Z",
+                "open_issues": 3,
                 "owner": "jolars",
                 "repo": "badness",
                 "stars": 110,
@@ -1149,8 +1149,8 @@
                 "id": 1262325065,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-11-14T14:58:28Z",
-                "open_issues": 1,
+                "last_commit": "2026-11-15T14:53:34Z",
+                "open_issues": 3,
                 "owner": "jolars",
                 "repo": "badness",
                 "stars": 110,
@@ -1300,7 +1300,7 @@
                     "open_issues": 264,
                     "owner": "matlab2tikz",
                     "repo": "matlab2tikz",
-                    "stars": 1767,
+                    "stars": 1768,
                     "topics": [
                       "latex",
                       "matlab",
@@ -1398,8 +1398,8 @@
             "id": 24120212,
             "language": null,
             "license": null,
-            "last_commit": "2026-11-09T01:24:03Z",
-            "open_issues": 2,
+            "last_commit": "2026-11-15T03:23:51Z",
+            "open_issues": 1,
             "owner": "martinbjeldbak",
             "repo": "ultimate-beamer-theme-list",
             "stars": 1828,
@@ -1574,7 +1574,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T17:01:19.995Z",
+    "last_updated": "2026-11-15T17:40:49.543Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of LaTeX awesomeness",

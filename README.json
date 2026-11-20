@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "dante-ev/docker-texlive",
-          "description": "debian-based full TeXLive system with additions with pandoc, perl, and python pre-installed",
+          "description": "Debian-based full TeXLive system with additions with Pandoc, Perl, and Python pre-installed.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -15,7 +15,7 @@
             "id": 94635509,
             "language": "Dockerfile",
             "license": "MIT",
-            "last_commit": "2026-11-12T13:47:28Z",
+            "last_commit": "2026-11-20T03:45:18Z",
             "open_issues": 1,
             "owner": "dante-ev",
             "repo": "docker-texlive",
@@ -30,7 +30,7 @@
         {
           "node_type": "item",
           "title": "reitzig/texlive-docker",
-          "description": "minimal TeXLive system with package installation possibility",
+          "description": "Minimal TeXLive system with package installation possibility.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -39,7 +39,7 @@
             "id": 212058154,
             "language": "Dockerfile",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-09T10:14:33Z",
+            "last_commit": "2026-11-20T11:57:16Z",
             "open_issues": 3,
             "owner": "reitzig",
             "repo": "texlive-docker",
@@ -57,7 +57,67 @@
       "title": "Docker Images"
     },
     {
-      "description": "Because editing LaTeX code with notepad is not awesome. There are many editors out there, below are the most awesome editors. A complete list of LaTeX editors is collected at tex.stackexchange.com as big list of LaTeX Editors/IDEs.",
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SwiftLaTeX",
+          "description": "pdfTeX and XeTeX compiled to WebAssembly, so you can compile LaTeX entirely in the browser or embed a TeX engine in a webpage.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "SwiftLaTeX, a WYSIWYG Browser-based LaTeX Editor ",
+            "homepage": "https://www.swiftlatex.com",
+            "id": 225990209,
+            "language": "C",
+            "license": "AGPL-3.0",
+            "last_commit": "2024-06-18T10:03:53Z",
+            "open_issues": 18,
+            "owner": "SwiftLaTeX",
+            "repo": "SwiftLaTeX",
+            "stars": 2320,
+            "topics": [
+              "editor",
+              "latex",
+              "webassembly",
+              "wysiwyg"
+            ]
+          },
+          "first_seen": "2026-11-20T19:03:59.920Z"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "xhub",
+              "description": "Browser extension that lets you use LaTeX in GitHub pages.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Extend GitHub pages with math, graphs etc.",
+                "homepage": null,
+                "id": 457049716,
+                "language": "JavaScript",
+                "license": "GPL-3.0",
+                "last_commit": "2025-08-31T10:11:38Z",
+                "open_issues": 11,
+                "owner": "nschloe",
+                "repo": "xhub",
+                "stars": 106,
+                "topics": []
+              },
+              "first_seen": "2026-11-20T19:03:59.920Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "LaTeX formulas on the web"
+        }
+      ],
+      "title": "Engines"
+    },
+    {
+      "description": "Because editing LaTeX code with notepad is not awesome. There are many editors out there, below are the most awesome editors. A complete list of LaTeX editors is collected at TeX.StackExchange as big list of LaTeX Editors/IDEs.",
       "items": [
         {
           "children": [
@@ -73,11 +133,11 @@
                 "id": 1289704847,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-19T17:29:51Z",
-                "open_issues": 34,
+                "last_commit": "2026-11-20T14:13:09Z",
+                "open_issues": 35,
                 "owner": "Oleafly",
                 "repo": "Oleafly",
-                "stars": 1248,
+                "stars": 1253,
                 "topics": [
                   "academic-writing",
                   "ai",
@@ -102,6 +162,66 @@
                 ]
               },
               "first_seen": "2026-08-28T21:21:08.759Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Gummi",
+              "description": "Simple GTK LaTeX editor with a continuously updating live preview pane.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Simple LaTeX editor",
+                "homepage": "https://gummi.app",
+                "id": 30527670,
+                "language": "C",
+                "license": "MIT",
+                "last_commit": "2024-11-21T18:57:47Z",
+                "open_issues": 93,
+                "owner": "alexandervdm",
+                "repo": "gummi",
+                "stars": 802,
+                "topics": []
+              },
+              "first_seen": "2026-11-20T19:03:59.920Z"
+            },
+            {
+              "node_type": "item",
+              "title": "LaTeX Editor",
+              "description": "Single-executable desktop editor with live PDF preview, two-way SyncTeX, LaTeX-aware spell checking, and one-key project snapshots written as a standard Git repository. Needs a separate TeX distribution.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Notepad++-style LaTeX editor with instant PDF preview and SyncTeX, for Windows, Linux and macOS. A fast, offline alternative to Overleaf",
+                "homepage": "https://s-balli.github.io/latex-editor/",
+                "id": 1281528696,
+                "language": "Python",
+                "license": "GPL-3.0",
+                "last_commit": "2026-11-20T14:57:43Z",
+                "open_issues": 0,
+                "owner": "s-balli",
+                "repo": "latex-editor",
+                "stars": 35,
+                "topics": [
+                  "academic-writing",
+                  "appimage",
+                  "bibtex",
+                  "desktop-app",
+                  "latex",
+                  "latex-editor",
+                  "lualatex",
+                  "overleaf-alternative",
+                  "pdf-viewer",
+                  "pdflatex",
+                  "pyqt6",
+                  "scientific-writing",
+                  "synctex",
+                  "texlive",
+                  "thesis",
+                  "turkish",
+                  "xelatex"
+                ]
+              },
+              "first_seen": "2026-11-20T19:03:59.920Z"
             }
           ],
           "description": "Some of the most awesome editor for LaTeX do just that: edit LaTeX.",
@@ -113,12 +233,12 @@
             {
               "node_type": "item",
               "title": "VS Code",
-              "description": "viatsko/awesome-vscode",
+              "description": "Free, extensible code editor by Microsoft.",
               "children": [
                 {
                   "node_type": "item",
                   "title": "LaTeX Workshop",
-                  "description": "LaTeX extension for Visual Studio Code",
+                  "description": "LaTeX extension for Visual Studio Code.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -128,10 +248,10 @@
                     "language": "TypeScript",
                     "license": "MIT",
                     "last_commit": "2026-11-17T06:35:20Z",
-                    "open_issues": 4,
+                    "open_issues": 5,
                     "owner": "James-Yu",
                     "repo": "LaTeX-Workshop",
-                    "stars": 12417,
+                    "stars": 12419,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:21:08.759Z"
@@ -139,7 +259,7 @@
                 {
                   "node_type": "item",
                   "title": "a-nau/latex-devcontainer",
-                  "description": "Devcontainer setup for easy LaTeX usage without local installation",
+                  "description": "Devcontainer setup for easy LaTeX usage without local installation.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -172,10 +292,10 @@
                 "language": "JavaScript",
                 "license": "CC0-1.0",
                 "last_commit": "2026-06-21T09:36:55Z",
-                "open_issues": 91,
+                "open_issues": 92,
                 "owner": "viatsko",
                 "repo": "awesome-vscode",
-                "stars": 29248,
+                "stars": 29252,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -195,12 +315,12 @@
             {
               "node_type": "item",
               "title": "Vim",
-              "description": "mhinz/vim-galore",
+              "description": "Highly configurable modal text editor.",
               "children": [
                 {
                   "node_type": "item",
                   "title": "vimtex",
-                  "description": "Modern vim plugin for editing LaTeX files. Has a variety of features including live preview and forward search.",
+                  "description": "Modern Vim plugin for editing LaTeX files. Has a variety of features including live preview and forward search.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -209,11 +329,11 @@
                     "id": 13344397,
                     "language": "TeX",
                     "license": "MIT",
-                    "last_commit": "2026-11-13T14:25:59Z",
-                    "open_issues": 3,
+                    "last_commit": "2026-11-20T13:16:33Z",
+                    "open_issues": 2,
                     "owner": "lervag",
                     "repo": "vimtex",
-                    "stars": 6413,
+                    "stars": 6414,
                     "topics": [
                       "filetype-plugin",
                       "latex",
@@ -259,7 +379,7 @@
                 "open_issues": 14,
                 "owner": "mhinz",
                 "repo": "vim-galore",
-                "stars": 18062,
+                "stars": 18061,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -279,7 +399,7 @@
             {
               "node_type": "item",
               "title": "Emacs",
-              "description": "emacs-tw/awesome-emacs",
+              "description": "Extensible, customizable free text editor.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -292,7 +412,7 @@
                 "open_issues": 38,
                 "owner": "emacs-tw",
                 "repo": "awesome-emacs",
-                "stars": 9423,
+                "stars": 9424,
                 "topics": [
                   "awesome-list",
                   "emacs"
@@ -303,7 +423,7 @@
             {
               "node_type": "item",
               "title": "Atom",
-              "description": "mehcode/awesome-atom",
+              "description": "Hackable text editor by GitHub, discontinued in 2022.",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -328,7 +448,7 @@
             {
               "node_type": "item",
               "title": "Sublime Text",
-              "description": "dreikanter/sublime-bookmarks",
+              "description": "Fast, cross-platform proprietary text editor.",
               "children": [
                 {
                   "node_type": "item",
@@ -391,7 +511,7 @@
                 "open_issues": 1,
                 "owner": "dreikanter",
                 "repo": "sublime-bookmarks",
-                "stars": 1075,
+                "stars": 1076,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -405,7 +525,7 @@
             {
               "node_type": "group",
               "title": "IntelliJ",
-              "description": null,
+              "description": "Java IDE by JetBrains that can be extended with plugins.",
               "children": [
                 {
                   "node_type": "item",
@@ -423,7 +543,7 @@
                     "open_issues": 1,
                     "owner": "Hannah-Sten",
                     "repo": "TeXiFy-IDEA",
-                    "stars": 990,
+                    "stars": 989,
                     "topics": [
                       "idea",
                       "intellij",
@@ -449,7 +569,7 @@
             {
               "node_type": "item",
               "title": "Overleaf",
-              "description": "Online editor, also with a WYSIWYM editor and git support. Also available as Overleaf Community Edition (self-hosted, AGPL licensed).",
+              "description": "Online editor, also with a WYSIWYM editor and Git support. Also available as Overleaf Community Edition (self-hosted, AGPL licensed).",
               "children": [
                 {
                   "node_type": "item",
@@ -492,6 +612,45 @@
                     ]
                   },
                   "first_seen": "2026-08-28T21:21:08.759Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "overleaf-comments-export",
+                  "description": "Exports comment threads, replies and tracked changes to Markdown and JSON, and annotates the compiled PDF with highlights on the commented text.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Export Overleaf comments and tracked changes to Markdown + JSON, optimized for AI-agent consumption",
+                    "homepage": "https://mangluu.github.io/overleaf-comments-export/",
+                    "id": 1241629649,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-11-10T18:28:28Z",
+                    "open_issues": 2,
+                    "owner": "Mangluu",
+                    "repo": "overleaf-comments-export",
+                    "stars": 43,
+                    "topics": [
+                      "academic-research",
+                      "academic-writing",
+                      "ai-tools",
+                      "browser-extension",
+                      "chatgpt",
+                      "chrome-extension",
+                      "claude",
+                      "cli",
+                      "latex",
+                      "markdown",
+                      "overleaf",
+                      "peer-review",
+                      "python",
+                      "research-tools",
+                      "reviewer-comments",
+                      "thesis",
+                      "tracked-changes"
+                    ]
+                  },
+                  "first_seen": "2026-11-20T19:03:59.920Z"
                 }
               ],
               "repo_info": {
@@ -502,10 +661,10 @@
                 "language": "JavaScript",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-09-17T13:21:12Z",
-                "open_issues": 172,
+                "open_issues": 171,
                 "owner": "overleaf",
                 "repo": "overleaf",
-                "stars": 18352,
+                "stars": 18353,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:21:08.759Z"
@@ -513,7 +672,7 @@
             {
               "node_type": "item",
               "title": "WebLaTeX",
-              "description": "Web-based vscode with Git Integration + Copilot + Grammar & Spell Checker + Live Collaboration Support based on GitHub Codespace and Dev container.",
+              "description": "Web-based VS Code with Git Integration + Copilot + Grammar & Spell Checker + Live Collaboration Support based on GitHub Codespace and Dev container.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -548,7 +707,7 @@
             {
               "node_type": "item",
               "title": "Modern LaTeX Editor",
-              "description": "Online editor, no-signup hybrid code editor + visual editor that mixes Notion/Google docs/Microsoft Word-like editing with raw LaTeX code blocks.",
+              "description": "Online editor, no-signup hybrid code editor + visual editor that mixes Notion/Google Docs/Microsoft Word-like editing with raw LaTeX code blocks.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -589,8 +748,8 @@
                 "id": 1010976100,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-19T19:24:54Z",
-                "open_issues": 23,
+                "last_commit": "2026-11-20T11:45:39Z",
+                "open_issues": 21,
                 "owner": "scitex-ai",
                 "repo": "scitex-hub",
                 "stars": 2,
@@ -646,7 +805,7 @@
             "open_issues": 81,
             "owner": "latex-lsp",
             "repo": "texlab",
-            "stars": 2042,
+            "stars": 2041,
             "topics": [
               "language-server",
               "latex"
@@ -666,8 +825,8 @@
             "id": 1262325065,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-11-19T07:46:59Z",
-            "open_issues": 1,
+            "last_commit": "2026-11-20T12:03:57Z",
+            "open_issues": 0,
             "owner": "jolars",
             "repo": "badness",
             "stars": 114,
@@ -693,11 +852,11 @@
             "id": 82691622,
             "language": "HTML",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-19T11:03:22Z",
+            "last_commit": "2026-11-20T09:10:51Z",
             "open_issues": 84,
             "owner": "papis",
             "repo": "papis",
-            "stars": 1808,
+            "stars": 1807,
             "topics": [
               "arxiv",
               "biblatex",
@@ -868,6 +1027,27 @@
             ]
           },
           "first_seen": "2026-08-28T21:21:08.759Z"
+        },
+        {
+          "node_type": "item",
+          "title": "BiblioAudit",
+          "description": "Command-line tool to check, verify, and repair citations in BibTeX files across 12+ academic databases.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "This tool queries public APIs (Crossref, OpenAlex, PubMed). Please respect API rate limits. No data is stored on our servers.",
+            "homepage": null,
+            "id": 1128307082,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-10-20T16:08:19Z",
+            "open_issues": 0,
+            "owner": "Official-Satyam-Tiwari",
+            "repo": "Reference-Architect",
+            "stars": 1,
+            "topics": []
+          },
+          "first_seen": "2026-11-20T19:03:59.920Z"
         }
       ],
       "title": "Bibliography tools"
@@ -906,7 +1086,7 @@
             {
               "node_type": "item",
               "title": "xu-cheng/latex-action",
-              "description": "GitHub Action to compile LaTeX documents",
+              "description": "GitHub Action to compile LaTeX documents.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -919,7 +1099,7 @@
                 "open_issues": 1,
                 "owner": "xu-cheng",
                 "repo": "latex-action",
-                "stars": 1430,
+                "stars": 1429,
                 "topics": [
                   "github-actions",
                   "latex"
@@ -930,7 +1110,7 @@
             {
               "node_type": "item",
               "title": "dante-ev/latex-action",
-              "description": "DANTE e.V.'s GitHub action to compile LaTeX documents. Offers a full TeXLive and pre-installed perl and python.",
+              "description": "DANTE e.V.'s GitHub action to compile LaTeX documents. Offers a full TeXLive and pre-installed Perl and Python.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1069,8 +1249,8 @@
                 "id": 1262325065,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-11-19T07:46:59Z",
-                "open_issues": 1,
+                "last_commit": "2026-11-20T12:03:57Z",
+                "open_issues": 0,
                 "owner": "jolars",
                 "repo": "badness",
                 "stars": 114,
@@ -1101,7 +1281,7 @@
                 "open_issues": 38,
                 "owner": "sylvainhalle",
                 "repo": "textidote",
-                "stars": 1061,
+                "stars": 1059,
                 "topics": [
                   "grammar-checker",
                   "languagetool",
@@ -1112,6 +1292,41 @@
                 ]
               },
               "first_seen": "2026-08-28T21:21:08.759Z"
+            },
+            {
+              "node_type": "item",
+              "title": "paper-preflight",
+              "description": "Checks every cited reference of a LaTeX project against Crossref, dblp, arXiv, DataCite, PubMed and OpenAlex records (existence, metadata mismatches, retractions) and reports undefined, duplicate and unused citation keys. Also available as a pre-commit hook, GitHub Action and MCP server.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Pre-submission integrity gate for LaTeX papers: every reference verified against real scholarly records. No LLM guessing.",
+                "homepage": null,
+                "id": 1402622395,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-10-15T15:33:36Z",
+                "open_issues": 0,
+                "owner": "amos689",
+                "repo": "paper-preflight",
+                "stars": 216,
+                "topics": [
+                  "academic-writing",
+                  "bibtex",
+                  "citation-checker",
+                  "citations",
+                  "claude-code",
+                  "hallucinated-citations",
+                  "latex",
+                  "mcp",
+                  "mcp-server",
+                  "python",
+                  "references",
+                  "research-integrity",
+                  "scientific-writing"
+                ]
+              },
+              "first_seen": "2026-11-20T19:03:59.920Z"
             },
             {
               "node_type": "item",
@@ -1149,8 +1364,8 @@
                 "id": 1262325065,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-11-19T07:46:59Z",
-                "open_issues": 1,
+                "last_commit": "2026-11-20T12:03:57Z",
+                "open_issues": 0,
                 "owner": "jolars",
                 "repo": "badness",
                 "stars": 114,
@@ -1174,7 +1389,7 @@
                 "open_issues": 1,
                 "owner": "YuZh98",
                 "repo": "latex2arxiv",
-                "stars": 6,
+                "stars": 7,
                 "topics": [
                   "academic-publishing",
                   "arxiv",
@@ -1198,6 +1413,41 @@
           "description": null,
           "node_type": "group",
           "title": "Quality Check Tools"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "IguanaTex",
+              "description": "PowerPoint add-in that inserts LaTeX equations typeset by your local TeX distribution and keeps the source with each shape, so you can edit and re-typeset it later.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A PowerPoint add-in to insert LaTeX equations into PowerPoint presentations on Windows and Mac",
+                "homepage": "http://www.jonathanleroux.org/software/iguanatex/",
+                "id": 76291300,
+                "language": "VBA",
+                "license": "NOASSERTION",
+                "last_commit": "2026-09-06T02:35:38Z",
+                "open_issues": 6,
+                "owner": "Jonathan-LeRoux",
+                "repo": "IguanaTex",
+                "stars": 1467,
+                "topics": [
+                  "insert-latex-equations",
+                  "latex",
+                  "powerpoint-add-in",
+                  "powerpoint-presentations",
+                  "powerpoint-vba",
+                  "vba"
+                ]
+              },
+              "first_seen": "2026-11-20T19:03:59.920Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Tools centered around equations"
         }
       ],
       "title": "Misc. Tools"
@@ -1260,7 +1510,7 @@
                 {
                   "node_type": "item",
                   "title": "tikzplotlib",
-                  "description": "Convert your matplotlib plots to PGFPlots/TikZ.",
+                  "description": "Convert your Matplotlib plots to PGFPlots/TikZ.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1273,7 +1523,7 @@
                     "open_issues": 136,
                     "owner": "nschloe",
                     "repo": "tikzplotlib",
-                    "stars": 2587,
+                    "stars": 2588,
                     "topics": [
                       "latex",
                       "matplotlib",
@@ -1300,7 +1550,7 @@
                     "open_issues": 264,
                     "owner": "matlab2tikz",
                     "repo": "matlab2tikz",
-                    "stars": 1769,
+                    "stars": 1770,
                     "topics": [
                       "latex",
                       "matlab",
@@ -1402,7 +1652,7 @@
             "open_issues": 1,
             "owner": "martinbjeldbak",
             "repo": "ultimate-beamer-theme-list",
-            "stars": 1831,
+            "stars": 1832,
             "topics": [
               "beamer",
               "beamer-template",
@@ -1451,7 +1701,7 @@
         {
           "node_type": "item",
           "title": "LaTeX Beamer Theme Overview",
-          "description": "Visual overview of beamer themes included in TeXLive",
+          "description": "Visual overview of beamer themes included in TeXLive.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1512,7 +1762,7 @@
         {
           "node_type": "item",
           "title": "Awesome LaTeX drawing",
-          "description": "Curated list of academic drawing examples for using LaTeX",
+          "description": "Curated list of academic drawing examples for using LaTeX.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1525,7 +1775,7 @@
             "open_issues": 1,
             "owner": "xinychen",
             "repo": "awesome-latex-drawing",
-            "stars": 2072,
+            "stars": 2070,
             "topics": [
               "latex",
               "machine-learning"
@@ -1574,7 +1824,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T19:27:53.331Z",
+    "last_updated": "2026-11-20T19:03:59.920Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of LaTeX awesomeness",
@@ -1582,14 +1832,17 @@
       "id": 49157768,
       "language": null,
       "license": "NOASSERTION",
-      "last_commit": "2026-08-08T07:42:44Z",
-      "open_issues": 35,
+      "last_commit": "2026-11-20T10:59:59Z",
+      "open_issues": 0,
       "owner": "egeerardyn",
       "repo": "awesome-LaTeX",
-      "stars": 1683,
-      "topics": []
+      "stars": 1685,
+      "topics": [
+        "awesome",
+        "awesome-list"
+      ]
     },
-    "original_repository_sha": "649d5293a16afcb0d91cd98cdc68da1248784f93",
+    "original_repository_sha": "a5da89ce3ea615e68a32f03979cfba5db96a7b77",
     "enhanced_repository": "enhansome/enhansome-LaTeX",
     "enhanced_repository_description": null,
     "title": "Awesome LaTeX with stars"
